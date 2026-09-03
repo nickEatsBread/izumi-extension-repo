@@ -1,0 +1,5256 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-09-03T09:03:09.589Z",
+  "scope": {
+    "content": "anime",
+    "transport": "http",
+    "manga": false
+  },
+  "packages": [
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.onetwothreeanime",
+      "name": "Aniyomi: 123Anime",
+      "version": "14.2",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9168084761765988435",
+          "name": "123Anime",
+          "language": "en",
+          "baseUrl": "https://123animehub.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.onetwothreeanime-v14.2.izumi-ext",
+      "packageSha256": "650a6ce9b05ab5a49cb9cc47ab962ce34720ad029a1d1a45449b48e85c56d183",
+      "packageBytes": 180300
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.allanime",
+      "name": "Aniyomi: AllAnime",
+      "version": "14.57",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4709139914729853090",
+          "name": "AllAnime",
+          "language": "en",
+          "baseUrl": "https://mkissa.to/anime"
+        }
+      ],
+      "backend": "izumi-js",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/allanime.izumi-ext",
+      "packageSha256": "1e8f3a0675a37fe316434ca5b2ade3f96d6fb0a9199cec9aa05d677b34f05520",
+      "packageBytes": 17464
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anichi",
+      "name": "Aniyomi: Anichi",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1023516189537091690",
+          "name": "Anichi",
+          "language": "en",
+          "baseUrl": "https://anichi.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anichi-v14.6.izumi-ext",
+      "packageSha256": "19f213f7483cb20023e539041c3eca8a816dabe731489d5e59f382d5c6568c30",
+      "packageBytes": 314928
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anidb",
+      "name": "Aniyomi: AniDB",
+      "version": "14.5",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3556703948634317295",
+          "name": "AniDB",
+          "language": "en",
+          "baseUrl": "https://anidb.app"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anidb-v14.5.izumi-ext",
+      "packageSha256": "76c9cccbd6251263e95c2ca87b28dcafc22b04d3bbe3dd51c28ee9ba536371bd",
+      "packageBytes": 159359
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.anidong",
+      "name": "Aniyomi: AniDong",
+      "version": "14.2",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7378153581200508732",
+          "name": "AniDong",
+          "language": "pt-BR",
+          "baseUrl": "https://anidong.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.anidong-v14.2.izumi-ext",
+      "packageSha256": "3b9db40b21c2f998bf8bd0e57f008128dad8e7e64368c7b9be5e18f3d68832c5",
+      "packageBytes": 110489
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anikage",
+      "name": "Aniyomi: Anikage",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "975930199828232260",
+          "name": "Anikage",
+          "language": "en",
+          "baseUrl": "https://anikage.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anikage-v14.6.izumi-ext",
+      "packageSha256": "ddb92a4e21cd4dda3f896169abd4b2b709d57f20fdd024ad1cbbcb7ed7d2e715",
+      "packageBytes": 253989
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anikoto",
+      "name": "Aniyomi: Anikoto",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4697393375201558791",
+          "name": "Anikoto",
+          "language": "en",
+          "baseUrl": "https://anikototv.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anikoto-v14.6.izumi-ext",
+      "packageSha256": "1a662af14786a89da137e4b0839f82e47a3316dc376245a184cfe0f6a8d11325",
+      "packageBytes": 280014
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.anikyuu",
+      "name": "Aniyomi: Anikyuu",
+      "version": "14.10",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4361637123039891722",
+          "name": "Anikyuu",
+          "language": "pt-BR",
+          "baseUrl": "https://anikyuu.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.anikyuu-v14.10.izumi-ext",
+      "packageSha256": "c9b9fb141ccdb1b77c861e82b1c88761a6f552fd972d8ebfd64ddde9a83b1363",
+      "packageBytes": 254166
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anilist",
+      "name": "Aniyomi: AniList",
+      "version": "14.12",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "297628545340942341",
+          "name": "AniList",
+          "language": "en",
+          "baseUrl": "https://anilist.co"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anilist-v14.12.izumi-ext",
+      "packageSha256": "79b181d39629d60a9e5283f71b65389118dfa044eda63714891f2331cd491ebf",
+      "packageBytes": 208141
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.animeblkom",
+      "name": "Aniyomi: Anime Blkom",
+      "version": "14.27",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5743347900850233900",
+          "name": "أنمي بالكوم",
+          "language": "ar",
+          "baseUrl": "https://animeblkom.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.animeblkom-v14.27.izumi-ext",
+      "packageSha256": "455162bbbd79386c42ff553d399277e6df1491792debe75ea86b842185a4e11b",
+      "packageBytes": 108894
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animefire",
+      "name": "Aniyomi: Anime Fire",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2914332399101546717",
+          "name": "Anime Fire",
+          "language": "pt-BR",
+          "baseUrl": "https://animefire.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animefire-v14.9.izumi-ext",
+      "packageSha256": "ddf8b9d6068409a0a9b12d564d6866098f19d657b1a5985952ae49fe8b4fa492",
+      "packageBytes": 119663
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.animesaturn",
+      "name": "Aniyomi: Anime Saturn",
+      "version": "14.13",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1863212142777957799",
+          "name": "AnimeSaturn",
+          "language": "it",
+          "baseUrl": "https://animesaturn.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.animesaturn-v14.13.izumi-ext",
+      "packageSha256": "131e12b1d0b2f0eea44ac1ebc56976bf302fe400b79cd950063f8fe49f40c4b3",
+      "packageBytes": 116849
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.sr.animesrbija",
+      "name": "Aniyomi: Anime Srbija",
+      "version": "14.23",
+      "language": "sr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "789279548118486310",
+          "name": "Anime Srbija",
+          "language": "sr",
+          "baseUrl": "https://www.animesrbija.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-sr.animesrbija-v14.23.izumi-ext",
+      "packageSha256": "839c5273bd6dcf2b1e3b6f76579406d74cdac227f99b5042b4c9736c70726253",
+      "packageBytes": 255338
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.animebase",
+      "name": "Aniyomi: Anime-Base",
+      "version": "14.46",
+      "language": "de",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "891780646468545269",
+          "name": "Anime-Base",
+          "language": "de",
+          "baseUrl": "https://anime-base.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.animebase-v14.46.izumi-ext",
+      "packageSha256": "3467300d78b3782573d1808967c3915addfc15bec6376b6df683063cac762514",
+      "packageBytes": 1807378
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.animeloads",
+      "name": "Aniyomi: Anime-Loads",
+      "version": "14.26",
+      "language": "de",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "655155856096",
+          "name": "Anime-Loads",
+          "language": "de",
+          "baseUrl": "https://www.anime-loads.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.animeloads-v14.26.izumi-ext",
+      "packageSha256": "e1fb747a0bcad5b1381cbc0198a98aca5a7215cde13c69a54e03911db23f5aad",
+      "packageBytes": 123930
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.animesama",
+      "name": "Aniyomi: Anime-Sama",
+      "version": "14.31",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6170936930338275444",
+          "name": "Anime-Sama",
+          "language": "fr",
+          "baseUrl": "https://anime-sama.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.animesama-v14.31.izumi-ext",
+      "packageSha256": "b375a41f759468478ce6f4ec6a6771d42991d87f660b00cd9b6457137a9897d1",
+      "packageBytes": 268673
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.animestream",
+      "name": "Aniyomi: Anime-Stream",
+      "version": "14.2",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "314593699490737069",
+          "name": "Anime-Stream",
+          "language": "de",
+          "baseUrl": "https://anime-stream.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.animestream-v14.2.izumi-ext",
+      "packageSha256": "35301549947a3ef849261c725f41da5ebb2a39a3d52f2bf8b41ac10ba4404159",
+      "packageBytes": 41386
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.anime1",
+      "name": "Aniyomi: Anime1.me",
+      "version": "14.4",
+      "language": "zh-hant",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8121834351495460193",
+          "name": "Anime1.me",
+          "language": "zh-hant",
+          "baseUrl": "https://anime1.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.anime1-v14.4.izumi-ext",
+      "packageSha256": "e1801df0303f44ebadde6d302727944d96e64aaed6c3de488eccd9e1724e3694",
+      "packageBytes": 2525319
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
+      "name": "Aniyomi: Anime4up",
+      "version": "14.79",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "528782559387795213",
+          "name": "Anime4Up",
+          "language": "ar",
+          "baseUrl": "https://w1.anime4up.rest"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.anime4up-v14.79.izumi-ext",
+      "packageSha256": "cf2de5e5bd81661e7b8dda22eddf9b86f42de70bca6337803bba58016658b5de",
+      "packageBytes": 325722
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeav1",
+      "name": "Aniyomi: AnimeAv1",
+      "version": "14.5",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1563723619853520901",
+          "name": "AnimeAv1",
+          "language": "es",
+          "baseUrl": "https://animeav1.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeav1-v14.5.izumi-ext",
+      "packageSha256": "f0ebcca6978ddc1f59b8926e279423aaa964651d56c0913e1f672713743b7e75",
+      "packageBytes": 307359
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.sr.animebalkan",
+      "name": "Aniyomi: AnimeBalkan",
+      "version": "14.17",
+      "language": "sr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1322485891319274755",
+          "name": "AnimeBalkan",
+          "language": "sr",
+          "baseUrl": "https://animebalkan.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-sr.animebalkan-v14.17.izumi-ext",
+      "packageSha256": "646ae4c6c1514372c7aabe174766db69c60379026bb45522d2617fbe1326e186",
+      "packageBytes": 158497
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animebum",
+      "name": "Aniyomi: AnimeBum",
+      "version": "14.20",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8233706727551070437",
+          "name": "AnimeBum",
+          "language": "es",
+          "baseUrl": "https://www.animebum.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animebum-v14.20.izumi-ext",
+      "packageSha256": "9a4524b20aad77ff5851e53c6d32af80b7afdffaf848e3b281129f97d06c27f8",
+      "packageBytes": 1783663
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
+      "name": "Aniyomi: AnimeCore",
+      "version": "14.6",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9099608567050495800",
+          "name": "AnimeCore",
+          "language": "pt-BR",
+          "baseUrl": "https://animecore.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesotaku-v14.6.izumi-ext",
+      "packageSha256": "2b1ddd3c61f74f5e9c3828ab8a6c454694f445fc389aeb1076caaadc9f159ef9",
+      "packageBytes": 158090
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animefenix",
+      "name": "Aniyomi: AnimeFenix",
+      "version": "14.76",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1901838936011764172",
+          "name": "AnimeFenix",
+          "language": "es",
+          "baseUrl": "https://animefenix2.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animefenix-v14.76.izumi-ext",
+      "packageSha256": "2f4acc9809227d6e09c23582c2dbf1ffa41add21671dcacc16ff2a9029555751",
+      "packageBytes": 1959904
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeflv",
+      "name": "Aniyomi: AnimeFLV",
+      "version": "14.76",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "93702975723668971",
+          "name": "AnimeFLV",
+          "language": "es",
+          "baseUrl": "https://www3.animeflv.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeflv-v14.76.izumi-ext",
+      "packageSha256": "ab0b02f1a590a369072890f7de35ba514fae46e5d979cb36d55e32a4b10e71c1",
+      "packageBytes": 296356
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animegg",
+      "name": "Aniyomi: AnimeGG",
+      "version": "14.2",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2247987965040486818",
+          "name": "AnimeGG",
+          "language": "en",
+          "baseUrl": "https://www.animegg.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animegg-v14.2.izumi-ext",
+      "packageSha256": "0cf42d8765d4b67692fd7c21a4f5647c4cfedf5de72c8e6c4eaf34ea480b371c",
+      "packageBytes": 59509
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.animeiat",
+      "name": "Aniyomi: Animeiat",
+      "version": "14.1",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7117595939095792520",
+          "name": "Animeiat",
+          "language": "ar",
+          "baseUrl": "https://api.animeiat.co/v1"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.animeiat-v14.1.izumi-ext",
+      "packageSha256": "534bf88fe85f55a30241107f1365426a0c496293ced73fdec150f6ce6dca117d",
+      "packageBytes": 129285
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeid",
+      "name": "Aniyomi: AnimeID",
+      "version": "14.27",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3757015232925755985",
+          "name": "AnimeID",
+          "language": "es",
+          "baseUrl": "https://www.animeid.tv/"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeid-v14.27.izumi-ext",
+      "packageSha256": "648665dd6f36b9b66da8a9730713185fadc1011885f13a15ff5b32fb4085de93",
+      "packageBytes": 362014
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.animeindo",
+      "name": "Aniyomi: AnimeIndo",
+      "version": "14.30",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2019695674801188380",
+          "name": "AnimeIndo",
+          "language": "id",
+          "baseUrl": "https://animeindo.skin"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.animeindo-v14.30.izumi-ext",
+      "packageSha256": "cc609221707cf908ba83a47752989473e9ea968b02ab798c7207f7789439b911",
+      "packageBytes": 166095
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animeito",
+      "name": "Aniyomi: AnimeIto",
+      "version": "14.16",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5503541725559168140",
+          "name": "Animeito",
+          "language": "pt-BR",
+          "baseUrl": "https://animesonline.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animeito-v14.16.izumi-ext",
+      "packageSha256": "cbe4619078889a7bccf93ea48aa611207b48be6cb21a9331b55bae9ee9cb426b",
+      "packageBytes": 216975
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animejl",
+      "name": "Aniyomi: Animejl",
+      "version": "14.21",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2934893552535692335",
+          "name": "Animejl",
+          "language": "es",
+          "baseUrl": "https://www.anime-jl.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animejl-v14.21.izumi-ext",
+      "packageSha256": "74f39af7162f6a034831fb97f5cceaf9efcc819fc0269b5dfc7d42d54e02b97f",
+      "packageBytes": 410110
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.kotokai",
+      "name": "Aniyomi: AnimeKai (Unoriginal)",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1571236147208399860",
+          "name": "AnimeKai (Unoriginal)",
+          "language": "en",
+          "baseUrl": "https://animekaitv.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.kotokai-v14.6.izumi-ext",
+      "packageSha256": "42a0dc85dd8dd76ebf74d88f2d0bc0cce292ee4ee6270d6f4658edfbb6ecee18",
+      "packageBytes": 278707
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animekhor",
+      "name": "Aniyomi: AnimeKhor",
+      "version": "14.27",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2156984402743841841",
+          "name": "AnimeKhor",
+          "language": "en",
+          "baseUrl": "https://animekhor.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animekhor-v14.27.izumi-ext",
+      "packageSha256": "204f0437487b0c544d6062d338b4315cf35db108d73aaa0bf1c2b336390c625e",
+      "packageBytes": 300772
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animelatinohd",
+      "name": "Aniyomi: AnimeLatinoHD",
+      "version": "14.54",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5412136569974245348",
+          "name": "AnimeLatinoHD",
+          "language": "es",
+          "baseUrl": "https://www.animelatinohd.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animelatinohd-v14.54.izumi-ext",
+      "packageSha256": "370a6fa6bf5a69f10df1a83fd53ad1dd43031ecef31754494f5695b810f9094a",
+      "packageBytes": 381500
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.animelek",
+      "name": "Aniyomi: AnimeLek",
+      "version": "14.39",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "735529755877348598",
+          "name": "AnimeLek",
+          "language": "ar",
+          "baseUrl": "https://animelek.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.animelek-v14.39.izumi-ext",
+      "packageSha256": "626a301839b232175e1386dcbafc8e665f48705c79f360dfa8ab312913969398",
+      "packageBytes": 105031
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.animeler",
+      "name": "Aniyomi: Animeler",
+      "version": "14.34",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6594370763071208431",
+          "name": "Animeler",
+          "language": "tr",
+          "baseUrl": "https://animeler.pw"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.animeler-v14.34.izumi-ext",
+      "packageSha256": "8903c47564ace75ba751ad2da4a101f6cbe5362ff331053f733932422fca8418",
+      "packageBytes": 393650
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ru.animelib",
+      "name": "Aniyomi: Animelib",
+      "version": "14.16",
+      "language": "ru",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1484002441113474607",
+          "name": "Animelib",
+          "language": "ru",
+          "baseUrl": "https://animelib.org/ru"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ru.animelib-v14.16.izumi-ext",
+      "packageSha256": "b8dff12a20071a81b8ec8b14aa2a9905d9198d490ea5cb58d1fb132320a0b942",
+      "packageBytes": 239530
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animemovil",
+      "name": "Aniyomi: AnimeMovil",
+      "version": "14.49",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3892773447316414021",
+          "name": "AnimeMovil",
+          "language": "es",
+          "baseUrl": "https://animemeow.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animemovil-v14.49.izumi-ext",
+      "packageSha256": "116488c034c2f74436785b0f98906679d0b43c8b9bec56445b2ab4f3319c967b",
+      "packageBytes": 413463
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animenix",
+      "name": "Aniyomi: Animenix",
+      "version": "14.26",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1547119562002827048",
+          "name": "Animenix",
+          "language": "es",
+          "baseUrl": "https://animenix.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animenix-v14.26.izumi-ext",
+      "packageSha256": "f996aed8f2c7e37a4275cdec4023280b5bb086ae8cf52c00e410dfcffeee9fa8",
+      "packageBytes": 369511
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animenosub",
+      "name": "Aniyomi: Animenosub",
+      "version": "14.30",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6722573244246256733",
+          "name": "Animenosub",
+          "language": "en",
+          "baseUrl": "https://animenosub.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animenosub-v14.30.izumi-ext",
+      "packageSha256": "b5a40982382ad25ebebba2f6f2cca65d3a95d96e96cecc2f7d5819d6efb1bfaf",
+      "packageBytes": 339955
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeonlineninja",
+      "name": "Aniyomi: AnimeOnline.Ninja",
+      "version": "14.66",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2765997893095141044",
+          "name": "AnimeOnline.Ninja",
+          "language": "es",
+          "baseUrl": "https://ww3.animeonline.ninja"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeonlineninja-v14.66.izumi-ext",
+      "packageSha256": "378f098ea1fdb2845e245fad2409b3584a31d1af571872933d8bf2d42361cf13",
+      "packageBytes": 408170
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
+      "name": "Aniyomi: AnimeOnsen",
+      "version": "14.10",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8542735178285060053",
+          "name": "AnimeOnsen",
+          "language": "all",
+          "baseUrl": "https://www.animeonsen.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.animeonsen-v14.10.izumi-ext",
+      "packageSha256": "f3f3c3e8219a1d0b234f1bc24403d7b21bfba87887414fa0b0a139a11d933aad",
+      "packageBytes": 156495
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animepahe",
+      "name": "Aniyomi: AnimePahe",
+      "version": "14.52",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9163675745699695675",
+          "name": "AnimePahe",
+          "language": "en",
+          "baseUrl": "https://animepahe.pw"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animepahe-v14.52.izumi-ext",
+      "packageSha256": "54b4d89ba89a50ffb1ab870330d1a5b7f6615b9a2f228fae0f3dbcaa27f513ae",
+      "packageBytes": 228423
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animeparadise",
+      "name": "Aniyomi: AnimeParadise",
+      "version": "14.1",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3319373396687010408",
+          "name": "AnimeParadise",
+          "language": "en",
+          "baseUrl": "https://www.animeparadise.moe"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animeparadise-v14.1.izumi-ext",
+      "packageSha256": "5a12e53de89702b756c636df5b65d9ef1746f9065be8b1e7b3c3befae86df38a",
+      "packageBytes": 140667
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animeplay",
+      "name": "Aniyomi: AnimePlay",
+      "version": "14.7",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3974766726104260721",
+          "name": "Anime Play",
+          "language": "pt-BR",
+          "baseUrl": "https://animeplay.cloud"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animeplay-v14.7.izumi-ext",
+      "packageSha256": "81706bee4381b4c11eba7b5cd20425c4ccc31d6ebcfa7499c9fca1b6c7a1a1b7",
+      "packageBytes": 151289
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animeplayer",
+      "name": "Aniyomi: AnimePlayer",
+      "version": "14.10",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6456382572881676651",
+          "name": "AnimePlayer",
+          "language": "pt-BR",
+          "baseUrl": "https://animeplayer.com.br"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animeplayer-v14.10.izumi-ext",
+      "packageSha256": "e85ce9289d00e1704200d972be16938d665994542311c019345181b966a0a7a8",
+      "packageBytes": 120909
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animeq",
+      "name": "Aniyomi: AnimeQ",
+      "version": "14.7",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3666901064696818585",
+          "name": "AnimeQ",
+          "language": "pt-BR",
+          "baseUrl": "https://animeq.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animeq-v14.7.izumi-ext",
+      "packageSha256": "0cb555cce029729265047e1145a289b4fda49bd97596511bd8319215827c59a5",
+      "packageBytes": 139770
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.animerco",
+      "name": "Aniyomi: Animerco",
+      "version": "14.58",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4435835034990361158",
+          "name": "Animerco",
+          "language": "ar",
+          "baseUrl": "https://zeta.animerco.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.animerco-v14.58.izumi-ext",
+      "packageSha256": "fd817e3e89ae2e9396417c5caf647d9ad4dd8a8882390fef3acc8304adf1c150",
+      "packageBytes": 313612
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animescx",
+      "name": "Aniyomi: Animes CX",
+      "version": "14.4",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3718439836617642466",
+          "name": "Animes CX",
+          "language": "pt-BR",
+          "baseUrl": "https://animescx.com.br"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animescx-v14.4.izumi-ext",
+      "packageSha256": "a365bed8605e3ec9179ae41b6c008c7b78084000f3eddfe2f2bd095142190c26",
+      "packageBytes": 83406
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesdigital",
+      "name": "Aniyomi: Animes Digital",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4877286181768246205",
+          "name": "Animes Digital",
+          "language": "pt-BR",
+          "baseUrl": "https://animesdigital.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesdigital-v14.9.izumi-ext",
+      "packageSha256": "28c11d7c3321d7650d0b980b7753092fae125138db4b30c6b00ebecb0e1d0e46",
+      "packageBytes": 200806
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesgames",
+      "name": "Aniyomi: Animes Games",
+      "version": "14.8",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6519826467833124450",
+          "name": "Animes Games",
+          "language": "pt-BR",
+          "baseUrl": "https://animesgames.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesgames-v14.8.izumi-ext",
+      "packageSha256": "d1d18cb1ff62d48a768c53f634bd2f8bfc9d0c0b77541679637a1c18e2a92481",
+      "packageBytes": 122443
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecc",
+      "name": "Aniyomi: Animes Online CC",
+      "version": "14.7",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7386550303236826765",
+          "name": "Animes Online CC",
+          "language": "pt-BR",
+          "baseUrl": "https://animesonlinecc.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesonlinecc-v14.7.izumi-ext",
+      "packageSha256": "8207218a70cf7a3502833baac1440e47d023ffedcab22b1d086640ae47d68e08",
+      "packageBytes": 88904
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesbr",
+      "name": "Aniyomi: AnimesBr (Dead)",
+      "version": "14.11",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3000709501394043899",
+          "name": "Animes BR",
+          "language": "pt-BR",
+          "baseUrl": "https://animesbr.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesbr-v14.11.izumi-ext",
+      "packageSha256": "3bf401290a4fa75265abca1d392ac12e73d55c7202257c4bc837d893de7c6ade",
+      "packageBytes": 125331
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesdrive",
+      "name": "Aniyomi: AnimesDrive",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6170414613821552199",
+          "name": "Animes Drive",
+          "language": "pt-BR",
+          "baseUrl": "https://animesdrive.online"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesdrive-v14.9.izumi-ext",
+      "packageSha256": "e4d1adc47bdbb53c7a79964445c32c44aecec0dc3c058d59d3215275cf76d6d9",
+      "packageBytes": 144561
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animesogo",
+      "name": "Aniyomi: AnimeSogo",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8456322126210259639",
+          "name": "AnimeSogo",
+          "language": "en",
+          "baseUrl": "https://animesogo.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animesogo-v14.6.izumi-ext",
+      "packageSha256": "d0e8025ae6a62a293a6398bafe22598e4bfdc1f2838821da6698d26d13ae991d",
+      "packageBytes": 293164
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud",
+      "name": "Aniyomi: AnimesOnlineCloud",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6962698096138673113",
+          "name": "Animes Online Cloud",
+          "language": "pt-BR",
+          "baseUrl": "https://animesonline.cloud"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesonlinecloud-v14.9.izumi-ext",
+      "packageSha256": "1b4a3f974588716d3155b36a076629f3646ddd14f6071878bdaa57bee046b73a",
+      "packageBytes": 158220
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
+      "name": "Aniyomi: AnimesOnlineVip",
+      "version": "14.4",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "533096643049014020",
+          "name": "Animes Online Vip",
+          "language": "pt-BR",
+          "baseUrl": "https://animesonlinefhd.vip"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesonlinevip-v14.4.izumi-ext",
+      "packageSha256": "6eef4638d1b08061fbddd8365d8cb558b83cb86730090bfb6506ed5b61f17583",
+      "packageBytes": 93313
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
+      "name": "Aniyomi: AnimesROLL",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "734961575978606843",
+          "name": "Animes ROLL",
+          "language": "pt-BR",
+          "baseUrl": "https://anroll.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesroll-v14.9.izumi-ext",
+      "packageSha256": "5cc245f57ffc675bcc79ae0038d899b1da79ab0ced7986317d75fb93905ab6b3",
+      "packageBytes": 162113
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animeszone",
+      "name": "Aniyomi: AnimesZone",
+      "version": "14.7",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7465937896816422886",
+          "name": "AnimesZone",
+          "language": "pt-BR",
+          "baseUrl": "https://animeszone.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animeszone-v14.7.izumi-ext",
+      "packageSha256": "307909243a21bbd867d01e66296923a01bde9fb62da2e97320c1c0997ef3df49",
+      "packageBytes": 157230
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.animetake",
+      "name": "Aniyomi: AnimeTake",
+      "version": "14.19",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7460925030423755739",
+          "name": "AnimeTake",
+          "language": "en",
+          "baseUrl": "https://animetake.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.animetake-v14.19.izumi-ext",
+      "packageSha256": "0a9ae788cb9bbff0922c16faeabcef116321958cabf48e3b47bcbb1b0e704205",
+      "packageBytes": 229812
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.animetoast",
+      "name": "Aniyomi: AnimeToast",
+      "version": "14.35",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2386616842414617638",
+          "name": "AnimeToast",
+          "language": "de",
+          "baseUrl": "https://www.animetoast.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.animetoast-v14.35.izumi-ext",
+      "packageSha256": "0ad9f0cbb33131454f2f32e0bc4f148f69b56e1aa7556956c53775cf6afc98f8",
+      "packageBytes": 220657
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.animeunity",
+      "name": "Aniyomi: AnimeUnity",
+      "version": "14.9",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7762808921754601430",
+          "name": "AnimeUnity",
+          "language": "it",
+          "baseUrl": "https://www.animeunity.so"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.animeunity-v14.9.izumi-ext",
+      "packageSha256": "7d68376cb099409153b1e0b94e33eeee61dfb8b6a12a3f75aa949b662721c9d6",
+      "packageBytes": 125102
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ru.animevost",
+      "name": "Aniyomi: Animevost",
+      "version": "14.10",
+      "language": "ru",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6632887527758140506",
+          "name": "Animevost",
+          "language": "ru",
+          "baseUrl": "https://animevost.org"
+        },
+        {
+          "id": "6851436110983735038",
+          "name": "Animevost Mirror",
+          "language": "ru",
+          "baseUrl": "https://v13.vost.pw"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ru.animevost-v14.10.izumi-ext",
+      "packageSha256": "e415460e971623862d8024ccf17c4193518963e1cc9ac7c0cf565836336c66bc",
+      "packageBytes": 443883
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.animevostfr",
+      "name": "Aniyomi: AnimeVostFr",
+      "version": "14.2",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5563793683192822639",
+          "name": "AnimeVostFr",
+          "language": "fr",
+          "baseUrl": "https://animevostfr.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.animevostfr-v14.2.izumi-ext",
+      "packageSha256": "63c6c68ca696ff541b496310903b62eb1a62332826a4b1a1052078c226325124",
+      "packageBytes": 89841
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.animeworldindia",
+      "name": "Aniyomi: AnimeWorld India",
+      "version": "14.23",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2012957501886720048",
+          "name": "AnimeWorld India",
+          "language": "all",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "1553651966725515829",
+          "name": "AnimeWorld India",
+          "language": "bn",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "8052146309028882026",
+          "name": "AnimeWorld India",
+          "language": "en",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "7823261278652377392",
+          "name": "AnimeWorld India",
+          "language": "hi",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "2355355781711866618",
+          "name": "AnimeWorld India",
+          "language": "ja",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "2763344039098801472",
+          "name": "AnimeWorld India",
+          "language": "ml",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "7406666490782122257",
+          "name": "AnimeWorld India",
+          "language": "mr",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "9003594241787941843",
+          "name": "AnimeWorld India",
+          "language": "ta",
+          "baseUrl": "https://anime-world.co"
+        },
+        {
+          "id": "8757775099454174589",
+          "name": "AnimeWorld India",
+          "language": "te",
+          "baseUrl": "https://anime-world.co"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.animeworldindia-v14.23.izumi-ext",
+      "packageSha256": "c9b67e6f3e1a10dd078bdffc43522fd938e828c748d3ce3e1e20099718fac913",
+      "packageBytes": 145373
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.animeworld",
+      "name": "Aniyomi: ANIMEWORLD.tv",
+      "version": "14.59",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6601315231151625432",
+          "name": "ANIMEWORLD.tv",
+          "language": "it",
+          "baseUrl": "https://www.animeworld.ac"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.animeworld-v14.59.izumi-ext",
+      "packageSha256": "7b33d645773f74825534fa91583da32adad0e1ef2778c79e3f664d0098c31389",
+      "packageBytes": 1604767
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.animexin",
+      "name": "Aniyomi: AnimeXin",
+      "version": "14.29",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4620219025406449669",
+          "name": "AnimeXin",
+          "language": "all",
+          "baseUrl": "https://animexin.dev"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.animexin-v14.29.izumi-ext",
+      "packageSha256": "56856062ef85fc1ec33f99a3782c48461f8dba1e820b97d43f421c3c09d708f7",
+      "packageBytes": 273236
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeyt",
+      "name": "Aniyomi: Animeyt",
+      "version": "14.19",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3945696494710013768",
+          "name": "AnimeYT",
+          "language": "es",
+          "baseUrl": "https://ytanime.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeyt-v14.19.izumi-ext",
+      "packageSha256": "1ea01da9af50efd720f8e9128e4a25946df50ac1141e92cf018d88d560812e48",
+      "packageBytes": 172662
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.animeytes",
+      "name": "Aniyomi: AnimeYT.es",
+      "version": "14.29",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4742118265598399159",
+          "name": "AnimeYT.es",
+          "language": "es",
+          "baseUrl": "https://animeyt.es"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.animeytes-v14.29.izumi-ext",
+      "packageSha256": "39b63b11dfca0775fbbd45dc53954af6ff6da44438e10611da761c24cd2dffe9",
+      "packageBytes": 338173
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.anineko",
+      "name": "Aniyomi: AniNeko",
+      "version": "14.3",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1578760449259207021",
+          "name": "AniNeko",
+          "language": "en",
+          "baseUrl": "https://anineko.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.anineko-v14.3.izumi-ext",
+      "packageSha256": "88d552a4b0326d75a91e7d9a39861cc7eee9fdd8c042b952f6e43b012f33c43d",
+      "packageBytes": 223712
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.aniplay",
+      "name": "Aniyomi: AniPlay",
+      "version": "14.22",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9100732207446736332",
+          "name": "AniPlay",
+          "language": "it",
+          "baseUrl": "https://aniplay.co"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.aniplay-v14.22.izumi-ext",
+      "packageSha256": "8a6f72c8248bd0a221290bb3616d7420bd8a03dd075a7a708bbfba7176221fe6",
+      "packageBytes": 141719
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.anisama",
+      "name": "Aniyomi: AniSama",
+      "version": "14.27",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1898818943039425198",
+          "name": "AniSama",
+          "language": "fr",
+          "baseUrl": "https://v1.animesz.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.anisama-v14.27.izumi-ext",
+      "packageSha256": "e699728b8fa128f2f1ec8d429650dcc72641bfdcd39da055615fe1eb83cb3cc1",
+      "packageBytes": 292457
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.anitube",
+      "name": "Aniyomi: Anitube",
+      "version": "14.29",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9152952750171112510",
+          "name": "Anitube",
+          "language": "pt-BR",
+          "baseUrl": "https://www.anitube.vip"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.anitube-v14.29.izumi-ext",
+      "packageSha256": "3a336d8fd79d1edd4818546aea6232e712c32bafe641b887c8abd553a9c60adb",
+      "packageBytes": 101923
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.aniwave",
+      "name": "Aniyomi: AniWave (Unoriginal)",
+      "version": "14.8",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4383278740715532790",
+          "name": "AniWave (Unoriginal)",
+          "language": "en",
+          "baseUrl": "https://animewave.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.aniwave-v14.8.izumi-ext",
+      "packageSha256": "41f750139dc3a93e96913ba339c14cdf5b173bc069ce41df03106fbbcb065670",
+      "packageBytes": 275452
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.aniwaves",
+      "name": "Aniyomi: AniWaves.ru",
+      "version": "14.2",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5863960468592971590",
+          "name": "AniWaves.ru",
+          "language": "en",
+          "baseUrl": "https://aniwaves.ru"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.aniwaves-v14.2.izumi-ext",
+      "packageSha256": "89e66cbd7a2d3e994c63396736a6a8881a0549edb9e4715e218e63965626f271",
+      "packageBytes": 292291
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ko.aniweek",
+      "name": "Aniyomi: Aniweek",
+      "version": "14.18",
+      "language": "ko",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4565983297271071094",
+          "name": "Aniweek",
+          "language": "ko",
+          "baseUrl": "https://aniweek.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ko.aniweek-v14.18.izumi-ext",
+      "packageSha256": "5e2a6738f04ea48b1fcd1c40646f8c89314dfc7f2be998f2fe4bd5f9e9437a56",
+      "packageBytes": 87975
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.aniworld",
+      "name": "Aniyomi: AniWorld",
+      "version": "14.40",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8286900189409315836",
+          "name": "AniWorld",
+          "language": "de",
+          "baseUrl": "https://aniworld.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.aniworld-v14.40.izumi-ext",
+      "packageSha256": "d350b87fcd87dc0c424d8325d575449a1c5c4a401d6c34323bf38d88aa5aba6c",
+      "packageBytes": 247254
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.anizm",
+      "name": "Aniyomi: Anizm",
+      "version": "14.45",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3103642053214293691",
+          "name": "Anizm",
+          "language": "tr",
+          "baseUrl": "https://anizm.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.anizm-v14.45.izumi-ext",
+      "packageSha256": "45bff5df5385189b8ea3dbff980f3527610adc67bfec37983e3b5389e166fffd",
+      "packageBytes": 341701
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.anizone",
+      "name": "Aniyomi: AniZone",
+      "version": "14.12",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "954848840440936266",
+          "name": "AniZone",
+          "language": "all",
+          "baseUrl": "https://anizone.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.anizone-v14.12.izumi-ext",
+      "packageSha256": "f5fd6bb27de0f3e7b7ea2e257f9fdafb5cfe77c468f2f02703bbc0523dc85016",
+      "packageBytes": 134298
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.arabseed",
+      "name": "Aniyomi: Arab Seed",
+      "version": "14.31",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4544379135186887077",
+          "name": "عرب سيد",
+          "language": "ar",
+          "baseUrl": "https://m.asd.homes"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.arabseed-v14.31.izumi-ext",
+      "packageSha256": "16884767fbc3f1aeb6a1a9630eb8b9ca2b634d4a2abe287d7e18a5f7e0d29669",
+      "packageBytes": 272602
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.arabanime",
+      "name": "Aniyomi: ArabAnime",
+      "version": "14.2",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7694781769943581537",
+          "name": "ArabAnime",
+          "language": "ar",
+          "baseUrl": "https://www.arabanime.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.arabanime-v14.2.izumi-ext",
+      "packageSha256": "bf093f641f3306822911503b70bab4c4dbb0135b0afd347715cbae546716ae6b",
+      "packageBytes": 101196
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.asia2tv",
+      "name": "Aniyomi: asia2tv",
+      "version": "14.37",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2083042094654392493",
+          "name": "Asia2TV",
+          "language": "ar",
+          "baseUrl": "https://ww1.asia2tv.pw"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.asia2tv-v14.37.izumi-ext",
+      "packageSha256": "0e2a272324946858f5c0340ea0be659edeef5149d8649148a88487e6abaaaf3a",
+      "packageBytes": 283454
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.asiaflix",
+      "name": "Aniyomi: AsiaFlix",
+      "version": "14.32",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5831315710159126556",
+          "name": "AsiaFlix",
+          "language": "en",
+          "baseUrl": "https://asiaflix.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.asiaflix-v14.32.izumi-ext",
+      "packageSha256": "36c35b28f40e75d63155f1a4ba6c43cf025241aa15d02f80929a105936df0188",
+      "packageBytes": 321731
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.asialiveaction",
+      "name": "Aniyomi: AsiaLiveAction",
+      "version": "14.51",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5750872840863097496",
+          "name": "AsiaLiveAction",
+          "language": "es",
+          "baseUrl": "https://asialiveaction.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.asialiveaction-v14.51.izumi-ext",
+      "packageSha256": "be3b993a2e137745212678c84a01e6349c97e862b5ff631de153f80224ccc252",
+      "packageBytes": 1819966
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri",
+      "name": "Aniyomi: AsyaAnimeleri",
+      "version": "14.25",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2012826325126448867",
+          "name": "AsyaAnimeleri",
+          "language": "tr",
+          "baseUrl": "https://asyaanimeleri.top"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.asyaanimeleri-v14.25.izumi-ext",
+      "packageSha256": "b337c1bc85fc7b1db22cf9362f96ec045065938f888664db61f3f540e4abc1cc",
+      "packageBytes": 173816
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.av1encodes",
+      "name": "Aniyomi: AV1Encodes",
+      "version": "14.1",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1014227790860730234",
+          "name": "AV1Encodes",
+          "language": "en",
+          "baseUrl": "https://av1encodes.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.av1encodes-v14.1.izumi-ext",
+      "packageSha256": "3cb76a1554cacf9f563740dc956268bb811bbfe23c25fd504c89a43888f966ec",
+      "packageBytes": 247721
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.azanimex",
+      "name": "Aniyomi: az-animex",
+      "version": "14.3",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7735188894368809510",
+          "name": "az-animex",
+          "language": "es",
+          "baseUrl": "https://www.az-animex.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.azanimex-v14.3.izumi-ext",
+      "packageSha256": "bab2516ff5497921aa77c232dd6c2b3bf72737e10dbaa2c73dcf7a6c11d38a18",
+      "packageBytes": 97820
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.beatzanime",
+      "name": "Aniyomi: BeatZ Anime",
+      "version": "14.3",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "27781270364033644",
+          "name": "BeatZ Anime",
+          "language": "es",
+          "baseUrl": "https://www.beatz-anime.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.beatzanime-v14.3.izumi-ext",
+      "packageSha256": "783d2d9ba11ce0bf328c9bb63a146d1a680e88cc73c75f3a9fa40d8f0d7fa703",
+      "packageBytes": 64898
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.betteranime",
+      "name": "Aniyomi: Better Anime",
+      "version": "14.12",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4877901824203895720",
+          "name": "Better Anime",
+          "language": "pt-BR",
+          "baseUrl": "https://betteranime.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.betteranime-v14.12.izumi-ext",
+      "packageSha256": "a7743b1b71b7a8905cf92432fe52d24b6b8cb0a449ac486e97be9fb71ea77efe",
+      "packageBytes": 170475
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.betteranimeio",
+      "name": "Aniyomi: BetterAnimeIo",
+      "version": "14.4",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2407610655424858426",
+          "name": "BetterAnimeIo",
+          "language": "pt-BR",
+          "baseUrl": "https://betteranime.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.betteranimeio-v14.4.izumi-ext",
+      "packageSha256": "6943232ff611dc74c2392cd49609842f10e532165a9cdb1aadc92030b894139a",
+      "packageBytes": 97677
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.blzone",
+      "name": "Aniyomi: BLZone",
+      "version": "14.8",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1437838328434413410",
+          "name": "BLZone",
+          "language": "en",
+          "baseUrl": "https://blzone.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.blzone-v14.8.izumi-ext",
+      "packageSha256": "1038e8f91a6fc56d1a71aa65baa2e4f0b6fdc62892ee937fd7156c0381173952",
+      "packageBytes": 1637057
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.chineseanime",
+      "name": "Aniyomi: ChineseAnime",
+      "version": "14.34",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8639880285552928628",
+          "name": "ChineseAnime",
+          "language": "all",
+          "baseUrl": "https://www.chineseanime.in"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.chineseanime-v14.34.izumi-ext",
+      "packageSha256": "f5b972b89ce84b3ad426bc38f8437d2bf43ee20288ca52c75203b0a439af447e",
+      "packageBytes": 381447
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.cimaleek",
+      "name": "Aniyomi: Cimaleek",
+      "version": "14.11",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9014633682469494124",
+          "name": "سيما ليك",
+          "language": "ar",
+          "baseUrl": "https://m.cimaleek.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.cimaleek-v14.11.izumi-ext",
+      "packageSha256": "677dde07441974933a5fd8265ee68bab96e50eaa99b890faa369677c28a514e9",
+      "packageBytes": 120551
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.cine24h",
+      "name": "Aniyomi: Cine24h",
+      "version": "14.25",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "431438597808105152",
+          "name": "Cine24h",
+          "language": "es",
+          "baseUrl": "https://cine24h.online"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.cine24h-v14.25.izumi-ext",
+      "packageSha256": "cfa0c0d4bc9ab100b8d7cfec2d92020fee65f91cbb69b379d66bef39811c7d88",
+      "packageBytes": 1720822
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.cineby",
+      "name": "Aniyomi: Cineby",
+      "version": "14.10",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3770577718621723403",
+          "name": "Cineby",
+          "language": "en",
+          "baseUrl": "https://www.cineby.at"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.cineby-v14.10.izumi-ext",
+      "packageSha256": "8cba391c4f3dac72f34124ebccf99c67c62360d1148ae3dc7eeebfa395cef217",
+      "packageBytes": 265312
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.cinecalidad",
+      "name": "Aniyomi: CineCalidad",
+      "version": "14.36",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "661928073480792687",
+          "name": "CineCalidad",
+          "language": "es",
+          "baseUrl": "https://www.cinecalidad.ec"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.cinecalidad-v14.36.izumi-ext",
+      "packageSha256": "aff03c468f9dc22efa3c1bb41bc392a1e411cd349416e9d324c8017b19c14a1c",
+      "packageBytes": 452290
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.cineplus123",
+      "name": "Aniyomi: Cineplus123",
+      "version": "14.23",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2117238897122405265",
+          "name": "Cineplus123",
+          "language": "es",
+          "baseUrl": "https://cineplus123.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.cineplus123-v14.23.izumi-ext",
+      "packageSha256": "8b1fd9fc04953608f0b3eaf1be42f672bc828d5ed5018d19f7f17a78d7b94b71",
+      "packageBytes": 332508
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.cuevana",
+      "name": "Aniyomi: Cuevana",
+      "version": "14.65",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8064568253800947423",
+          "name": "Cuevana3Ch",
+          "language": "es",
+          "baseUrl": "https://ww1.cuevana3.ch"
+        },
+        {
+          "id": "1487248605713977697",
+          "name": "Cuevana3Eu",
+          "language": "es",
+          "baseUrl": "https://www.cuevana3.eu"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.cuevana-v14.65.izumi-ext",
+      "packageSha256": "4b8696c03a8f2cbfc1c08d6b9cdecbff61fa27437e0943a2624652e7d1d6039f",
+      "packageBytes": 610930
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.cycity",
+      "name": "Aniyomi: Cycity",
+      "version": "14.3",
+      "language": "zh",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4928029692398241219",
+          "name": "次元城动漫",
+          "language": "zh",
+          "baseUrl": "https://www.cycani.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.cycity-v14.3.izumi-ext",
+      "packageSha256": "22cff68717eda38b404b2e7636d4bdd4e104541f22bdb0bab7c210e623d1ae81",
+      "packageBytes": 156460
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.dattebayobr",
+      "name": "Aniyomi: DattebayoBR",
+      "version": "14.1",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "429519413057267556",
+          "name": "Dattebayo BR",
+          "language": "pt-BR",
+          "baseUrl": "https://www.dattebayo-br.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.dattebayobr-v14.1.izumi-ext",
+      "packageSha256": "bd1db6053d10aaaa3e08d0df7be1ec2fc808f82b26ae81582105d9f6ed3b7aa0",
+      "packageBytes": 73310
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.debridindex",
+      "name": "Aniyomi: Debrid Index",
+      "version": "14.2",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "824133852049869443",
+          "name": "Debrid Index",
+          "language": "all",
+          "baseUrl": "https://torrentio.strem.fun"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.debridindex-v14.2.izumi-ext",
+      "packageSha256": "413583992317a92bbfa88bef71b6ee524f549f181390dcc33d475eef363816a9",
+      "packageBytes": 82035
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pl.desuonline",
+      "name": "Aniyomi: desu-online",
+      "version": "14.20",
+      "language": "pl",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5996410160070658951",
+          "name": "desu-online",
+          "language": "pl",
+          "baseUrl": "https://desu-online.pl"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pl.desuonline-v14.20.izumi-ext",
+      "packageSha256": "196bc1ba663908b3c89d6e190ca28ce07ed7500ac145d8a5f2581f6fe4c4d2af",
+      "packageBytes": 176651
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.detodopeliculas",
+      "name": "Aniyomi: DeTodoPeliculas",
+      "version": "14.23",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4976463260586484820",
+          "name": "DeTodo Peliculas",
+          "language": "es",
+          "baseUrl": "https://detodopeliculas.nu"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.detodopeliculas-v14.23.izumi-ext",
+      "packageSha256": "c2df9cf358d7fabb11b75f0360f2a375b438c346a0d7c8c405c4a4f7b8b12946",
+      "packageBytes": 1833030
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pl.docchi",
+      "name": "Aniyomi: Docchi",
+      "version": "14.13",
+      "language": "pl",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "594564153449456404",
+          "name": "Docchi",
+          "language": "pl",
+          "baseUrl": "https://docchi.pl"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pl.docchi-v14.13.izumi-ext",
+      "packageSha256": "6bda641c1303d7518008e8fcd1b97b54ca4beb09f49be388f06a3cb793daf38c",
+      "packageBytes": 396663
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai",
+      "name": "Aniyomi: Donghua no Sekai",
+      "version": "14.4",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1190488322033769414",
+          "name": "Donghua no Sekai",
+          "language": "pt-BR",
+          "baseUrl": "https://donghuanosekai.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.donghuanosekai-v14.4.izumi-ext",
+      "packageSha256": "f6dc2ce53e1a0940385b1b78b59e5ea60bed9abb41eb14842cfa00fc9534b7f5",
+      "packageBytes": 184950
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
+      "name": "Aniyomi: DonghuaStream",
+      "version": "14.29",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5750955808412743706",
+          "name": "DonghuaStream",
+          "language": "en",
+          "baseUrl": "https://donghuastream.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.donghuastream-v14.29.izumi-ext",
+      "packageSha256": "902c207d69d61f2d840750bee755a45d7b334315f00cedb980d25a59efabd3fc",
+      "packageBytes": 296957
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.doramasflix",
+      "name": "Aniyomi: Doramasflix",
+      "version": "14.52",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1955566742338181506",
+          "name": "Doramasflix",
+          "language": "es",
+          "baseUrl": "https://doramasflix.in"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.doramasflix-v14.52.izumi-ext",
+      "packageSha256": "9d0a85608bbbc877a9ea126b6c5d3438ef21e4e23a309bf1f0c11844d5a2e847",
+      "packageBytes": 539238
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.doramasyt",
+      "name": "Aniyomi: Doramasyt",
+      "version": "14.39",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "885919523581666049",
+          "name": "Doramasyt",
+          "language": "es",
+          "baseUrl": "https://www.doramasyt.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.doramasyt-v14.39.izumi-ext",
+      "packageSha256": "8cb11c407a9c0598ff28462c2cdb2c9c3a7b8595a8042032b677b5b114b1a4ed",
+      "packageBytes": 480787
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
+      "name": "Aniyomi: Doramogo",
+      "version": "14.18",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "913841527115486600",
+          "name": "Doramogo",
+          "language": "pt-BR",
+          "baseUrl": "https://doramogo.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.doramogo-v14.18.izumi-ext",
+      "packageSha256": "383ab2f51b92c7f25fe98e6f0a9d5095cb20d65c1ef8cae499190299e8ff86c9",
+      "packageBytes": 177979
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.egydead",
+      "name": "Aniyomi: Egy Dead",
+      "version": "14.29",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8402300441936118056",
+          "name": "Egy Dead",
+          "language": "ar",
+          "baseUrl": "https://egydead.space"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.egydead-v14.29.izumi-ext",
+      "packageSha256": "3056ff3139dced9df89c257397171d181ec8e4c8cfb043c339f2d9efdbe33a48",
+      "packageBytes": 248835
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.empirestreaming",
+      "name": "Aniyomi: EmpireStreaming",
+      "version": "14.28",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1449801594109278557",
+          "name": "EmpireStreaming",
+          "language": "fr",
+          "baseUrl": "https://empire-stream.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.empirestreaming-v14.28.izumi-ext",
+      "packageSha256": "6ac930e51cd8f8eca2142a6b8ed456ff5f7c3f9984934aceab88ac1cd7b7d8db",
+      "packageBytes": 169599
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.ennovelas",
+      "name": "Aniyomi: EnNovelas (Dead)",
+      "version": "14.28",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6683521813386506618",
+          "name": "EnNovelas",
+          "language": "es",
+          "baseUrl": "https://l.ennovelas-tv.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.ennovelas-v14.28.izumi-ext",
+      "packageSha256": "f487b9f916bc30e0eb4ce10f73f0e5d6f1e35f9182a3e6390603f1e0293fed7d",
+      "packageBytes": 112873
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.estrenosdoramas",
+      "name": "Aniyomi: EstrenosDoramas",
+      "version": "14.19",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9219401167730918156",
+          "name": "EstrenosDoramas",
+          "language": "es",
+          "baseUrl": "https://estrenosdoramas.es"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.estrenosdoramas-v14.19.izumi-ext",
+      "packageSha256": "b0170bde9c9288c2d169a481e4175929ea0020aafcec75375da3804fb2e872fc",
+      "packageBytes": 1770485
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.fanpelis",
+      "name": "Aniyomi: FanPelis",
+      "version": "14.24",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1270541458457028378",
+          "name": "FanPelis",
+          "language": "es",
+          "baseUrl": "https://fanpelis.la"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.fanpelis-v14.24.izumi-ext",
+      "packageSha256": "6776fcb0bb080c7638ab79422f7e664c73cbc40327887b7b27e8b628c1fce645",
+      "packageBytes": 119107
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
+      "name": "Aniyomi: FASELHD",
+      "version": "14.28",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1378291029586884571",
+          "name": "فاصل اعلاني",
+          "language": "ar",
+          "baseUrl": "https://www.faselhds.biz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.faselhd-v14.28.izumi-ext",
+      "packageSha256": "15b3e6ca521ad59e4a3e1ffe6cc976cdc60dc6c7c9863ff32c2dbfe82bda08d5",
+      "packageBytes": 231257
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.filmpalast",
+      "name": "Aniyomi: FilmPalast",
+      "version": "14.27",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3592180368623395225",
+          "name": "FilmPalast",
+          "language": "de",
+          "baseUrl": "https://filmpalast.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.filmpalast-v14.27.izumi-ext",
+      "packageSha256": "6b46a9db74bd75ba2008c0bafddc960af48ebc065151cde592063293dbd41c24",
+      "packageBytes": 96075
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.flixei",
+      "name": "Aniyomi: Flixei",
+      "version": "14.7",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1017446964244457164",
+          "name": "Flixei",
+          "language": "pt-BR",
+          "baseUrl": "https://flixei.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.flixei-v14.7.izumi-ext",
+      "packageSha256": "4a9295ee8d31e169772d7d07d48870e6cfcc793fc6b481be35141539d3654b15",
+      "packageBytes": 123725
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.flixlatam",
+      "name": "Aniyomi: FlixLatam",
+      "version": "14.27",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2400169316701597839",
+          "name": "FlixLatam",
+          "language": "es",
+          "baseUrl": "https://flixlatam.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.flixlatam-v14.27.izumi-ext",
+      "packageSha256": "a900e344382234ecd0eead4dadaa661465886f88c55d8e00538eb19a9d3cc5b8",
+      "packageBytes": 2000591
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.franime",
+      "name": "Aniyomi: FRAnime",
+      "version": "14.28",
+      "language": "fr",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3074980924810171824",
+          "name": "FRAnime",
+          "language": "fr",
+          "baseUrl": "https://franime.fr"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.franime-v14.28.izumi-ext",
+      "packageSha256": "2caab2dddea60234acf245a5d6b7244b3531717d8520f8f4a6b7ca392fbdb911",
+      "packageBytes": 154723
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.frenchanime",
+      "name": "Aniyomi: French Anime",
+      "version": "14.33",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8142032927870763721",
+          "name": "French Anime",
+          "language": "fr",
+          "baseUrl": "https://french-anime.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.frenchanime-v14.33.izumi-ext",
+      "packageSha256": "b94121e954599bb87f25addef7d3ee7716c1eb891539a20f18bf105bb502f4d7",
+      "packageBytes": 203667
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.funanimetv",
+      "name": "Aniyomi: Fun Anime TV",
+      "version": "14.1",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7920607630206318931",
+          "name": "Fun Anime TV",
+          "language": "pt-BR",
+          "baseUrl": "https://betterclass.click"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.funanimetv-v14.1.izumi-ext",
+      "packageSha256": "57cf970434fbbe7d97ba079acf76fa13e6136d57c0d30fdbd772185dff4ca86d",
+      "packageBytes": 137949
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.gnula",
+      "name": "Aniyomi: Gnula",
+      "version": "14.50",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6896649241746590059",
+          "name": "Gnula",
+          "language": "es",
+          "baseUrl": "https://gnula.life"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.gnula-v14.50.izumi-ext",
+      "packageSha256": "16a99e601cedec83c0170a89e4d77a7ac4d4a0afec758d4d74d33f34c5d39b41",
+      "packageBytes": 2201612
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.goanimes",
+      "name": "Aniyomi: GoAnimes",
+      "version": "14.15",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6911038002626470519",
+          "name": "GoAnimes",
+          "language": "pt-BR",
+          "baseUrl": "https://goanimes.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.goanimes-v14.15.izumi-ext",
+      "packageSha256": "730861022d1dede28deaaacb33f3a9f1d059806a1e64186b60fe208f2536a51f",
+      "packageBytes": 2126317
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.googledrive",
+      "name": "Aniyomi: Google Drive",
+      "version": "14.18",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4222017068256633289",
+          "name": "Google Drive",
+          "language": "all",
+          "baseUrl": "https://drive.google.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.googledrive-v14.18.izumi-ext",
+      "packageSha256": "0390dfb5b8ad025bce594562af1b3cd64e8f5ab147df679eabdc802e41e5a5c7",
+      "packageBytes": 116098
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.googledriveindex",
+      "name": "Aniyomi: GoogleDriveIndex",
+      "version": "14.7",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7558489246571085102",
+          "name": "GoogleDriveIndex",
+          "language": "all",
+          "baseUrl": ""
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.googledriveindex-v14.7.izumi-ext",
+      "packageSha256": "a242e3b6fd1366c51d80c7a4f66ecac37852cf90f7eef341537b5379088beaa0",
+      "packageBytes": 113291
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
+      "name": "Aniyomi: Goyabu",
+      "version": "14.4",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "191823841242368911",
+          "name": "Goyabu",
+          "language": "pt-BR",
+          "baseUrl": "https://goyabu.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.goyabu-v14.4.izumi-ext",
+      "packageSha256": "6f53fa11d219ce5ef5ad99cd6abb23535206e3198fe494776eda26dddef41018",
+      "packageBytes": 93116
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.hackstore",
+      "name": "Aniyomi: Hackstore",
+      "version": "14.42",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1202443264869837465",
+          "name": "Hackstore",
+          "language": "es",
+          "baseUrl": "https://www.hackstore.fo"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.hackstore-v14.42.izumi-ext",
+      "packageSha256": "bc1929c994fe822df598b9fcdf1337eabebc1e6cc41850d2b8112a263d77d834",
+      "packageBytes": 425050
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
+      "name": "Aniyomi: haho.moe",
+      "version": "14.10",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3727306173180829340",
+          "name": "haho.moe",
+          "language": "en",
+          "baseUrl": "https://haho.moe"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hahomoe-v14.10.izumi-ext",
+      "packageSha256": "faeccf921f6b0a489f097fd541b5b07e3733651aa1c2b6675b4a2f747ecbe270",
+      "packageBytes": 102643
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hanime",
+      "name": "Aniyomi: hanime.tv",
+      "version": "14.23",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2649711761599612719",
+          "name": "hanime.tv",
+          "language": "en",
+          "baseUrl": "https://hanime.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hanime-v14.23.izumi-ext",
+      "packageSha256": "c0c9a956593c3fa7d91c0e6894b579232b4f6b4bceb252e9edc299986885062b",
+      "packageBytes": 570315
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
+      "name": "Aniyomi: Hanime1.me",
+      "version": "14.7",
+      "language": "zh",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2853734405579058222",
+          "name": "Hanime1.me",
+          "language": "zh",
+          "baseUrl": "https://hanime1.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.hanime1-v14.7.izumi-ext",
+      "packageSha256": "0ca1fe372491fef52795dc6f94247edcd038ea249b39a1348a0c47d86506ac75",
+      "packageBytes": 79646
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi",
+      "name": "Aniyomi: HDFilmCehennemi",
+      "version": "14.33",
+      "language": "tr",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7053678650145882822",
+          "name": "HDFilmCehennemi",
+          "language": "tr",
+          "baseUrl": "https://www.hdfilmcehennemi.nl"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.hdfilmcehennemi-v14.33.izumi-ext",
+      "packageSha256": "ca87f10522a80e05358f14f5669db12b0a78b1932ec569d9d5ccf6bf539bb7bb",
+      "packageBytes": 177958
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.hds",
+      "name": "Aniyomi: HDS",
+      "version": "14.19",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3206613581297348563",
+          "name": "HDS",
+          "language": "fr",
+          "baseUrl": "https://on1.hds.quest"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.hds-v14.19.izumi-ext",
+      "packageSha256": "ac621c3cab7381595bfecc57ef30f4f5275d9e29e15768ea9b98aeb8f331ca67",
+      "packageBytes": 218533
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.hentaisaturn",
+      "name": "Aniyomi: Hentai Saturn",
+      "version": "14.5",
+      "language": "it",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "5832452298268268088",
+          "name": "HentaiSaturn",
+          "language": "it",
+          "baseUrl": "https://www.hentaisaturn.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.hentaisaturn-v14.5.izumi-ext",
+      "packageSha256": "025f8317be443b29a3e86089701cf3503eb46ab1dd03c69fe1a20d196e479ced",
+      "packageBytes": 107988
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hentaihaven",
+      "name": "Aniyomi: HentaiHaven",
+      "version": "14.7",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1700779054663752842",
+          "name": "HentaiHaven",
+          "language": "en",
+          "baseUrl": "https://hentaihaven.xxx"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hentaihaven-v14.7.izumi-ext",
+      "packageSha256": "d9977a83fbc2d5d843b04633ee094141ea15b1781835e3cf290cbbfd7543c510",
+      "packageBytes": 145570
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.hentaijk",
+      "name": "Aniyomi: Hentaijk",
+      "version": "14.19",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4616479108300191837",
+          "name": "Hentaijk",
+          "language": "es",
+          "baseUrl": "https://hentaijk.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.hentaijk-v14.19.izumi-ext",
+      "packageSha256": "54b43344eb438c3d499e836f99a1e19fad1bcc2ca8623df244fa113a02cecbbf",
+      "packageBytes": 168916
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.hentaila",
+      "name": "Aniyomi: Hentaila",
+      "version": "14.48",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6447194598203666818",
+          "name": "Hentaila",
+          "language": "es",
+          "baseUrl": "https://hentaila.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.hentaila-v14.48.izumi-ext",
+      "packageSha256": "fa2a47fff254e21d1dbad77d522fe390966a0971158c2d3f83e3fba1959e33a7",
+      "packageBytes": 338710
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hentaimama",
+      "name": "Aniyomi: HentaiMama",
+      "version": "14.7",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8058423919997530503",
+          "name": "HentaiMama",
+          "language": "en",
+          "baseUrl": "https://hentaimama.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hentaimama-v14.7.izumi-ext",
+      "packageSha256": "f782bb4b79b067a98f09b404b01e602bf5189c8f004b06c6d7b090a459922c99",
+      "packageBytes": 89987
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.hentaistube",
+      "name": "Aniyomi: HentaisTube",
+      "version": "14.3",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "5035104637271805422",
+          "name": "HentaisTube",
+          "language": "pt-BR",
+          "baseUrl": "https://www.hentaistube.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.hentaistube-v14.3.izumi-ext",
+      "packageSha256": "726fbf03c63be5fedd2d84f434236d9c39b4bf758cfd060749131074ef97011d",
+      "packageBytes": 145967
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.hentaitk",
+      "name": "Aniyomi: HentaiTk",
+      "version": "14.28",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7726637677864789742",
+          "name": "HentaiTk",
+          "language": "es",
+          "baseUrl": "https://hentaitk.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.hentaitk-v14.28.izumi-ext",
+      "packageSha256": "e9e911359d088d1433e0c39a80a35867ba51c77bc395d8dc96c66cc2689a4c26",
+      "packageBytes": 411766
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
+      "name": "Aniyomi: HentaiZM",
+      "version": "14.9",
+      "language": "tr",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "9058842310298227429",
+          "name": "HentaiZM",
+          "language": "tr",
+          "baseUrl": "https://www.hentaizm6.online"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.hentaizm-v14.9.izumi-ext",
+      "packageSha256": "e949c2e4d251cd86c97bd599bc213ca6c9d46e1de1a8105b0fd5f8e4779ceb05",
+      "packageBytes": 71735
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hexawatch",
+      "name": "Aniyomi: HexaWatch",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8787688252737895237",
+          "name": "HexaWatch",
+          "language": "en",
+          "baseUrl": "https://hexa.su"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hexawatch-v14.6.izumi-ext",
+      "packageSha256": "d1cff0dcf5dbd280fe1d43140277132618c790d516f4651dfd4bccbf46af1094",
+      "packageBytes": 225994
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.hinatasoul",
+      "name": "Aniyomi: Hinata Soul",
+      "version": "14.5",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3650793989950779171",
+          "name": "Hinata Soul",
+          "language": "pt-BR",
+          "baseUrl": "https://www.hinatasoul.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.hinatasoul-v14.5.izumi-ext",
+      "packageSha256": "55e7475bc6466c605b8b2c03e87bc7611587f557e1bd159c5070ed93c15aa295",
+      "packageBytes": 77254
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.homecine",
+      "name": "Aniyomi: HomeCine",
+      "version": "14.20",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4683784015054845419",
+          "name": "HomeCine",
+          "language": "es",
+          "baseUrl": "https://homecine.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.homecine-v14.20.izumi-ext",
+      "packageSha256": "c087cb5a7989fc5a787b0a06350aec239f6a3c4bae2799225dad8483d3fc270e",
+      "packageBytes": 408845
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.hstream",
+      "name": "Aniyomi: Hstream",
+      "version": "14.12",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8733115911403916257",
+          "name": "Hstream",
+          "language": "en",
+          "baseUrl": "https://hstream.moe"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.hstream-v14.12.izumi-ext",
+      "packageSha256": "5aeff257b9684eafca8e32318bb1e1507e8a53b6635ec6b3beff6c8584b7986e",
+      "packageBytes": 118105
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.iyf",
+      "name": "Aniyomi: iyf",
+      "version": "14.1",
+      "language": "zh",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3164438094592800620",
+          "name": "爱壹帆",
+          "language": "zh",
+          "baseUrl": "https://www.iyf.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.iyf-v14.1.izumi-ext",
+      "packageSha256": "b86b5ccdd471d68ac7a54fb272f3e30fe9e3fa2ad5a4fdb9e3ad7f3dad9f4acd",
+      "packageBytes": 154505
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.jable",
+      "name": "Aniyomi: Jable",
+      "version": "14.2",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4927468808524123411",
+          "name": "Jable",
+          "language": "zh",
+          "baseUrl": "https://jable.tv"
+        },
+        {
+          "id": "889668913079212135",
+          "name": "Jable",
+          "language": "en",
+          "baseUrl": "https://jable.tv"
+        },
+        {
+          "id": "7335707215680841826",
+          "name": "Jable",
+          "language": "ja",
+          "baseUrl": "https://jable.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.jable-v14.2.izumi-ext",
+      "packageSha256": "328b537cda1c9ba7372eea60321cd5ef147d04591fd9ac5b7456fbf7ce37528d",
+      "packageBytes": 63533
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.javguru",
+      "name": "Aniyomi: Jav Guru",
+      "version": "14.46",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8546813608934181796",
+          "name": "Jav Guru",
+          "language": "all",
+          "baseUrl": "https://jav.guru"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.javguru-v14.46.izumi-ext",
+      "packageSha256": "3b91d713b9afea8c8e581af457cb5884d5bc06bb03a0a09c17fd7c9f3bf88a90",
+      "packageBytes": 328736
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.javgg",
+      "name": "Aniyomi: JavGG",
+      "version": "14.20",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3378993382379910095",
+          "name": "JavGG",
+          "language": "all",
+          "baseUrl": "https://javgg.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.javgg-v14.20.izumi-ext",
+      "packageSha256": "8eee4d2d24bd1c68be61e8406b22cd5f8e60bfa63e21eb7029864ed114b12271",
+      "packageBytes": 316886
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
+      "name": "Aniyomi: Jellyfin",
+      "version": "14.30",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1100359934660540567",
+          "name": "Jellyfin (1)",
+          "language": "all",
+          "baseUrl": ""
+        },
+        {
+          "id": "5716273013801838310",
+          "name": "Jellyfin (2)",
+          "language": "all",
+          "baseUrl": ""
+        },
+        {
+          "id": "7066619062139039107",
+          "name": "Jellyfin (3)",
+          "language": "all",
+          "baseUrl": ""
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.jellyfin-v14.30.izumi-ext",
+      "packageSha256": "5329553bc08e6d917fd3d8aa02b1c50a490bf24b7039bee249b339f79d353f00",
+      "packageBytes": 285800
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
+      "name": "Aniyomi: JetAnime",
+      "version": "14.23",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8914615515692839881",
+          "name": "JetAnime",
+          "language": "fr",
+          "baseUrl": "https://ssl.jetanimes.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.jetanime-v14.23.izumi-ext",
+      "packageSha256": "6f011578f9b78fe9edeeb6ccfa87ec9c41e583da40826050750e8d18b4614c9b",
+      "packageBytes": 116149
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.jkanime",
+      "name": "Aniyomi: Jkanime",
+      "version": "14.51",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6007374093317538838",
+          "name": "Jkanime",
+          "language": "es",
+          "baseUrl": "https://jkanime.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.jkanime-v14.51.izumi-ext",
+      "packageSha256": "628ca4b2eae206bb4fe7a93f6888e8f22b9b865e6cdd514b852775ef94497712",
+      "packageBytes": 343962
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.jkhentai",
+      "name": "Aniyomi: Jkhentai",
+      "version": "14.11",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "5893372327521334179",
+          "name": "Jkhentai",
+          "language": "es",
+          "baseUrl": "https://www.jkhentai.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.jkhentai-v14.11.izumi-ext",
+      "packageSha256": "ea2da4734b49ea6d4b739ed10f2499d287b849cdbf7e954e9ab4ca0473c2f1c5",
+      "packageBytes": 51879
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.katanime",
+      "name": "Aniyomi: Katanime",
+      "version": "14.23",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2564532783405004779",
+          "name": "Katanime",
+          "language": "es",
+          "baseUrl": "https://katanime.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.katanime-v14.23.izumi-ext",
+      "packageSha256": "88234e6ac9fa6e5d7056e0e2dcaa3d899e16be5307a1b5de7d1caf3b08438eb3",
+      "packageBytes": 1869443
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.kayoanime",
+      "name": "Aniyomi: Kayoanime",
+      "version": "14.13",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "203922289858257167",
+          "name": "Kayoanime",
+          "language": "en",
+          "baseUrl": "https://kayoanime.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.kayoanime-v14.13.izumi-ext",
+      "packageSha256": "7663030c371a4990bc526bbb9333a063999a6901f7d647930c5d6b21c5bc6c56",
+      "packageBytes": 120278
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
+      "name": "Aniyomi: KickAssAnime",
+      "version": "14.61",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2081771513481539599",
+          "name": "KickAssAnime",
+          "language": "en",
+          "baseUrl": "https://kaa.lt"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.kickassanime-v14.61.izumi-ext",
+      "packageSha256": "be8345fe1750d2278cdb2f7a988d5c5dc5ffbb0f81eb2f2fec57761bcac940aa",
+      "packageBytes": 230958
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.kimoitv",
+      "name": "Aniyomi: KimoiTV",
+      "version": "14.1",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6358473316829302267",
+          "name": "KimoiTV",
+          "language": "en",
+          "baseUrl": "https://kimoitv.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.kimoitv-v14.1.izumi-ext",
+      "packageSha256": "7e48034f8bbcb8adbd7799bcbe22e64a67a03f57d6f3f8bf153a7a4a30a5c847",
+      "packageBytes": 105106
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.kinoking",
+      "name": "Aniyomi: Kinoking",
+      "version": "14.36",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "996816978236636598",
+          "name": "Kinoking",
+          "language": "de",
+          "baseUrl": "https://kinoking.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.kinoking-v14.36.izumi-ext",
+      "packageSha256": "935403afe389d1d628438885d6fd2a38dbf3b250366e777f81f1087094363976",
+      "packageBytes": 114820
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.kisskh",
+      "name": "Aniyomi: KissKH",
+      "version": "14.5",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2434089544252410046",
+          "name": "KissKH",
+          "language": "en",
+          "baseUrl": "https://kisskh.ovh"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.kisskh-v14.5.izumi-ext",
+      "packageSha256": "8700795f4f7db7a5b4e52110bcb457cd2aa3667e17013346bf286192e7c0f732",
+      "packageBytes": 89814
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.kool",
+      "name": "Aniyomi: Kool",
+      "version": "14.26",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5602415922350710914",
+          "name": "Kool",
+          "language": "de",
+          "baseUrl": "https://www.kool.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.kool-v14.26.izumi-ext",
+      "packageSha256": "6086d05a009915b97c693f42607bbb0f4bf9e076ba386660d5885a3ca7b01e9e",
+      "packageBytes": 228656
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
+      "name": "Aniyomi: Kuramanime",
+      "version": "14.23",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4677878836897500878",
+          "name": "Kuramanime",
+          "language": "id",
+          "baseUrl": "https://v8.kuramanime.tel"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.kuramanime-v14.23.izumi-ext",
+      "packageSha256": "9ad5880f7b0cd698f1f50c53b9fc54ec8cb1ce7070ecfb4cc2128cc693fca98a",
+      "packageBytes": 1898173
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.kuronime",
+      "name": "Aniyomi: Kuronime",
+      "version": "14.13",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2083695115646974607",
+          "name": "Kuronime",
+          "language": "id",
+          "baseUrl": "https://tv1.kuronime.vip"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.kuronime-v14.13.izumi-ext",
+      "packageSha256": "b71a616ec5c95cfcaa8f2a383935eb31f9da742eb8da937484b69745abf37d28",
+      "packageBytes": 108060
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.lacartoons",
+      "name": "Aniyomi: LACartoons",
+      "version": "14.26",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4124511684994754369",
+          "name": "LACartoons",
+          "language": "es",
+          "baseUrl": "https://www.lacartoons.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.lacartoons-v14.26.izumi-ext",
+      "packageSha256": "af99ec4b89a91226553505892b0d5e39b692ab5e9f613c668438b8b2b69eb81a",
+      "packageBytes": 389815
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.lamovie",
+      "name": "Aniyomi: LaMovie",
+      "version": "14.27",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5419283741928374105",
+          "name": "LaMovie",
+          "language": "es",
+          "baseUrl": "https://la.movie"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.lamovie-v14.27.izumi-ext",
+      "packageSha256": "5945490255f724b43155e2c9e87ba3a1069f7249da1fc5619d9816e9a781da6a",
+      "packageBytes": 562033
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.latanime",
+      "name": "Aniyomi: Latanime",
+      "version": "14.42",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7257892387451890645",
+          "name": "Latanime",
+          "language": "es",
+          "baseUrl": "https://latanime.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.latanime-v14.42.izumi-ext",
+      "packageSha256": "0d939800a4d738cf1ce8e1c9abeb1ccf73aedecdee6e4e0ee4024528081b0913",
+      "packageBytes": 1854818
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.legionanime",
+      "name": "Aniyomi: LegionAnime",
+      "version": "14.50",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "508651506167756898",
+          "name": "LegionAnime",
+          "language": "es",
+          "baseUrl": "https://legionanime.club/api"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.legionanime-v14.50.izumi-ext",
+      "packageSha256": "47321b06f97cb9a4014f5aa35f8a9b48404d04624c6cb3178706e60b022d66a8",
+      "packageBytes": 355527
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.lmanime",
+      "name": "Aniyomi: LMAnime",
+      "version": "14.28",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7296222662412524790",
+          "name": "LMAnime",
+          "language": "all",
+          "baseUrl": "https://lmanime.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.lmanime-v14.28.izumi-ext",
+      "packageSha256": "995d75c0a0a1e0fbeb927284737e940995b1ed925c70a836ca1d4629e504fc1b",
+      "packageBytes": 334977
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.locopelis",
+      "name": "Aniyomi: LocoPelis",
+      "version": "14.39",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7685749277599065785",
+          "name": "LocoPelis",
+          "language": "es",
+          "baseUrl": "https://www.locopelis.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.locopelis-v14.39.izumi-ext",
+      "packageSha256": "cc2b9a2f0b2c053f4d5be72eae673703bf37c6d50f5081caa2550e6d11db6929",
+      "packageBytes": 130629
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.luciferdonghua",
+      "name": "Aniyomi: LuciferDonghua",
+      "version": "14.25",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1480485712825107891",
+          "name": "LuciferDonghua",
+          "language": "en",
+          "baseUrl": "https://luciferdonghua.in"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.luciferdonghua-v14.25.izumi-ext",
+      "packageSha256": "a7ab5254cc2ad9d171d2596e84b7389108114994e350e9f6ac3b8c2db3ccd949",
+      "packageBytes": 290025
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.mapple",
+      "name": "Aniyomi: Mapple",
+      "version": "14.4",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4419717598017841435",
+          "name": "Mapple",
+          "language": "en",
+          "baseUrl": "https://mapple.uk"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.mapple-v14.4.izumi-ext",
+      "packageSha256": "9f4fa2ae3357eb7783d34d720a3457a957533298057d929de96b4da2e8874343",
+      "packageBytes": 251327
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.megaflix",
+      "name": "Aniyomi: Megaflix",
+      "version": "14.17",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1129545692275462313",
+          "name": "Megaflix",
+          "language": "pt-BR",
+          "baseUrl": "https://megaflix.co"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.megaflix-v14.17.izumi-ext",
+      "packageSha256": "373a695c58c5ae68f124b060bcd00a9092122cd0056166dc260d03af9a0c7c3a",
+      "packageBytes": 2105747
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.metroseries",
+      "name": "Aniyomi: MetroSeries",
+      "version": "14.33",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "302544302370133084",
+          "name": "MetroSeries",
+          "language": "es",
+          "baseUrl": "https://www3.seriesmetro.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.metroseries-v14.33.izumi-ext",
+      "packageSha256": "9c69d47f95ac951cc87b3475b25a15f942a29703c3908c8e38bd9033eca5f972",
+      "packageBytes": 367718
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.meusanimes",
+      "name": "Aniyomi: Meus Animes",
+      "version": "14.1",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8394381853778573358",
+          "name": "Meus Animes",
+          "language": "pt-BR",
+          "baseUrl": "https://meusanimes.vip"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.meusanimes-v14.1.izumi-ext",
+      "packageSha256": "875028949e4be9ae012dde18e12c6bd94575e2e03de58e76d1dc13daaa95fe56",
+      "packageBytes": 68582
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.mhdflix",
+      "name": "Aniyomi: MhdFlix",
+      "version": "14.24",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4812325950703384298",
+          "name": "MhdFlix",
+          "language": "es",
+          "baseUrl": "https://ww1.mhdflix.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.mhdflix-v14.24.izumi-ext",
+      "packageSha256": "662514202325db6d6eb114eebdd07fee8bc67d3abc17b4f9e13e04e9ff3460d8",
+      "packageBytes": 518979
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.minioppai",
+      "name": "Aniyomi: MiniOppai",
+      "version": "14.19",
+      "language": "id",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3422641844834047610",
+          "name": "MiniOppai",
+          "language": "id",
+          "baseUrl": "https://minioppai.org"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.minioppai-v14.19.izumi-ext",
+      "packageSha256": "e7ed2aded152985688d3fd96af3e627dd37ae5a5598c1c7f0ca3fa11fc33cb29",
+      "packageBytes": 147331
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.miruro",
+      "name": "Aniyomi: Miruro.tv",
+      "version": "14.10",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4467610354363305307",
+          "name": "Miruro.tv",
+          "language": "en",
+          "baseUrl": "https://www.miruro.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.miruro-v14.10.izumi-ext",
+      "packageSha256": "f9af43a3335ed6974195e9c6559bfe5a61dda4f0e723e707f14139f0a6314f8b",
+      "packageBytes": 2722445
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.missav",
+      "name": "Aniyomi: MissAV",
+      "version": "14.30",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "168969881246615628",
+          "name": "MissAV",
+          "language": "all",
+          "baseUrl": "https://missav.live"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.missav-v14.30.izumi-ext",
+      "packageSha256": "1b18c356ce221a82ebbae953f43bf6ff102d7fb0c50f5cf14bcdb4eef1aacdbc",
+      "packageBytes": 219289
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.mkissa",
+      "name": "Aniyomi: MKissa",
+      "version": "14.67",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4709139914729853090",
+          "name": "MKissa",
+          "language": "en",
+          "baseUrl": "https://mkissa.to/anime"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.mkissa-v14.67.izumi-ext",
+      "packageSha256": "9389e35007b12d55da12b4bfc0037f821bfdee0c81ac769c3b75afc392ca26c0",
+      "packageBytes": 676694
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.moflixstream",
+      "name": "Aniyomi: Moflix-Stream",
+      "version": "14.29",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6760309784631443658",
+          "name": "Moflix-Stream",
+          "language": "de",
+          "baseUrl": "https://moflix-stream.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.moflixstream-v14.29.izumi-ext",
+      "packageSha256": "b5f9e0d3bba985c012a2978b48923d05052be9a34a0b569a192a6fa100a270d7",
+      "packageBytes": 1782719
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.monoschinos",
+      "name": "Aniyomi: MonosChinos",
+      "version": "14.55",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6957694006954649296",
+          "name": "MonosChinos",
+          "language": "es",
+          "baseUrl": "https://monoschinos.st"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.monoschinos-v14.55.izumi-ext",
+      "packageSha256": "c08d47705dad1fd4f7a2c32e5a0e69a23e4770fa93e8460a8d865f247971c46f",
+      "packageBytes": 445625
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.movie4k",
+      "name": "Aniyomi: Movie4k",
+      "version": "14.19",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4846722280190238047",
+          "name": "Movie4k",
+          "language": "de",
+          "baseUrl": "https://movie4k.stream"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.movie4k-v14.19.izumi-ext",
+      "packageSha256": "ff01632e4a00bf21df9ffb1519e1eaed65359df78569553de17a7a9aa731a20b",
+      "packageBytes": 106763
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
+      "name": "Aniyomi: MoviesMod",
+      "version": "14.2",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2828515480418041073",
+          "name": "Movies Mod",
+          "language": "en",
+          "baseUrl": "https://moviesmod.zone"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.moviesmod-v14.2.izumi-ext",
+      "packageSha256": "827ae07db7f43de379a5e39c8d0cb6d0fbbb17d023a63a82eddf2353a1ccf9aa",
+      "packageBytes": 153618
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.muitohentai",
+      "name": "Aniyomi: Muito Hentai",
+      "version": "14.2",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1062606379654091909",
+          "name": "Muito Hentai",
+          "language": "pt-BR",
+          "baseUrl": "https://www.muitohentai.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.muitohentai-v14.2.izumi-ext",
+      "packageSha256": "17dee2688f27907d087b8964b3726b7bb605ed7a47c359a375a7e1d34a133b51",
+      "packageBytes": 60028
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.mundodonghua",
+      "name": "Aniyomi: MundoDonghua",
+      "version": "14.45",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4356029013369426954",
+          "name": "MundoDonghua",
+          "language": "es",
+          "baseUrl": "https://www.mundodonghua.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.mundodonghua-v14.45.izumi-ext",
+      "packageSha256": "814e9f5ece782013ded297163b4e9b18e5c80424a4bb164b84b227499796b4bd",
+      "packageBytes": 478062
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.myrunningman",
+      "name": "Aniyomi: My Running Man",
+      "version": "14.12",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6399273548157311628",
+          "name": "My Running Man",
+          "language": "en",
+          "baseUrl": "https://www.myrunningman.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.myrunningman-v14.12.izumi-ext",
+      "packageSha256": "0008604ac1ced5ac977d83fb0e6d0309b446d70460df886b334f7d127c7af8a8",
+      "packageBytes": 96114
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.myanime",
+      "name": "Aniyomi: Myanime",
+      "version": "14.16",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4364465995809265087",
+          "name": "Myanime",
+          "language": "en",
+          "baseUrl": "https://myanime.live"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.myanime-v14.16.izumi-ext",
+      "packageSha256": "1b99c23f4aac26699279a5413defa138d922c4ca6ffd9fa3d3abdc6a9f44f000",
+      "packageBytes": 198772
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.mykdrama",
+      "name": "Aniyomi: MyKdrama",
+      "version": "14.19",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7657190496536415953",
+          "name": "MyKdrama",
+          "language": "fr",
+          "baseUrl": "https://mykdrama.co"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.mykdrama-v14.19.izumi-ext",
+      "packageSha256": "8ecd814757397af855cfdd55b5c6a2d35e3cae2a1c95f44b461fc53ec07522e7",
+      "packageBytes": 186299
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.myreadingmanga",
+      "name": "Aniyomi: MyReadingManga",
+      "version": "14.2",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4864082317433034574",
+          "name": "MyReadingManga",
+          "language": "ar",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8842237058298566885",
+          "name": "MyReadingManga",
+          "language": "id",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "2574695051338042046",
+          "name": "MyReadingManga",
+          "language": "bg",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8791956266162443131",
+          "name": "MyReadingManga",
+          "language": "zh-hk",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8339625080404115366",
+          "name": "MyReadingManga",
+          "language": "zh",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "5845608986362292519",
+          "name": "MyReadingManga",
+          "language": "zh-tw",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "7131955720858058783",
+          "name": "MyReadingManga",
+          "language": "cs",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "5371514224509665564",
+          "name": "MyReadingManga",
+          "language": "da",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "6318378620301107421",
+          "name": "MyReadingManga",
+          "language": "en",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "3226915867864141356",
+          "name": "MyReadingManga",
+          "language": "fil",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "849421505944509897",
+          "name": "MyReadingManga",
+          "language": "fi",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "4376917703158179535",
+          "name": "MyReadingManga",
+          "language": "nl",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "437664019446265570",
+          "name": "MyReadingManga",
+          "language": "fr",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "2084769296792806394",
+          "name": "MyReadingManga",
+          "language": "de",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8822988174773173078",
+          "name": "MyReadingManga",
+          "language": "el",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "5231220639630323919",
+          "name": "MyReadingManga",
+          "language": "he",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8926928666838596626",
+          "name": "MyReadingManga",
+          "language": "hi",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8708782130191102760",
+          "name": "MyReadingManga",
+          "language": "hu",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "3371822795753272045",
+          "name": "MyReadingManga",
+          "language": "it",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "7616097631685192755",
+          "name": "MyReadingManga",
+          "language": "ja",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8341594492961776810",
+          "name": "MyReadingManga",
+          "language": "ko",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "1723826339924620549",
+          "name": "MyReadingManga",
+          "language": "ms",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "8445980320294828568",
+          "name": "MyReadingManga",
+          "language": "no",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "2019706989618234044",
+          "name": "MyReadingManga",
+          "language": "pl",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "7097816699537539700",
+          "name": "MyReadingManga",
+          "language": "pt-BR",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "1896532101387970682",
+          "name": "MyReadingManga",
+          "language": "ro",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "4213491422253699699",
+          "name": "MyReadingManga",
+          "language": "ru",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "3547244847403070407",
+          "name": "MyReadingManga",
+          "language": "es",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "4833177807047559630",
+          "name": "MyReadingManga",
+          "language": "sv",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "1912103614802930406",
+          "name": "MyReadingManga",
+          "language": "th",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "164535712016830416",
+          "name": "MyReadingManga",
+          "language": "tr",
+          "baseUrl": "https://myreadingmanga.info"
+        },
+        {
+          "id": "4129272632455883902",
+          "name": "MyReadingManga",
+          "language": "vi",
+          "baseUrl": "https://myreadingmanga.info"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.myreadingmanga-v14.2.izumi-ext",
+      "packageSha256": "3861ebdf6461fa7dfe34e90c28b9be2af2937d26be1ca1e7fe991688091cd0e0",
+      "packageBytes": 92792
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.neonime",
+      "name": "Aniyomi: NeoNime",
+      "version": "14.25",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6698339357657312694",
+          "name": "NeoNime",
+          "language": "id",
+          "baseUrl": "https://neonime.ink"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.neonime-v14.25.izumi-ext",
+      "packageSha256": "ff8910a07f88c2ecfffd402ff14d079140f4c6b27202e4f1094ff3b574dd32dc",
+      "packageBytes": 132960
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.newgrounds",
+      "name": "Aniyomi: Newgrounds",
+      "version": "14.1",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1105406593306973475",
+          "name": "Newgrounds",
+          "language": "all",
+          "baseUrl": "https://www.newgrounds.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.newgrounds-v14.1.izumi-ext",
+      "packageSha256": "b6cf68f2c74c11e5eec56a4c015f81e0b9a3dbec03a460884c2d7e7e0644dab7",
+      "packageBytes": 92739
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.nimegami",
+      "name": "Aniyomi: NimeGami",
+      "version": "14.7",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3947801646056600641",
+          "name": "NimeGami",
+          "language": "id",
+          "baseUrl": "https://nimegami.id"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.nimegami-v14.7.izumi-ext",
+      "packageSha256": "62d0c102fc94ede58fc619e836b6a11df26b7311a610ad97c053ca34b244f7fd",
+      "packageBytes": 200414
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.nivod",
+      "name": "Aniyomi: Nivod",
+      "version": "14.1",
+      "language": "zh",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1182396933972053592",
+          "name": "泥视频",
+          "language": "zh",
+          "baseUrl": "https://www.nivod.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.nivod-v14.1.izumi-ext",
+      "packageSha256": "5ed126bc5c13b379f77ba233f89af79a3b82692a98c449d52aabe19406135f7e",
+      "packageBytes": 90444
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pl.ogladajanime",
+      "name": "Aniyomi: OgladajAnime",
+      "version": "14.5",
+      "language": "pl",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1174869729090616971",
+          "name": "OgladajAnime",
+          "language": "pl",
+          "baseUrl": "https://ogladajanime.pl"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pl.ogladajanime-v14.5.izumi-ext",
+      "packageSha256": "10e9ebf2ee441eb72ef17f50e0dd8829bd3739c619e911c743472acefb19a19b",
+      "packageBytes": 64370
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.okanime",
+      "name": "Aniyomi: Okanime",
+      "version": "14.26",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2275740574829569178",
+          "name": "Okanime",
+          "language": "ar",
+          "baseUrl": "https://www.okanime.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.okanime-v14.26.izumi-ext",
+      "packageSha256": "6b37b81f36ddaff69c00712263361a28660c57e2b145db517d2f532973b85db9",
+      "packageBytes": 152710
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.oploverz",
+      "name": "Aniyomi: Oploverz",
+      "version": "14.26",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2573103800968432770",
+          "name": "Oploverz",
+          "language": "id",
+          "baseUrl": "https://oploverz.media"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.oploverz-v14.26.izumi-ext",
+      "packageSha256": "8836a700dca9dd51afd9fdec3e2b969a03e95d22fe67ad3bd486ea545fd90cf6",
+      "packageBytes": 168595
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.oppaistream",
+      "name": "Aniyomi: Oppai Stream",
+      "version": "14.6",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1938195875614354298",
+          "name": "Oppai Stream",
+          "language": "en",
+          "baseUrl": "https://oppai.stream"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.oppaistream-v14.6.izumi-ext",
+      "packageSha256": "83fa973e3aef82fec4b4108696ea3ce1e736fe08231f35a5cd35c1a8732112b7",
+      "packageBytes": 103881
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
+      "name": "Aniyomi: OtakuDesu",
+      "version": "14.43",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3428487071093013526",
+          "name": "OtakuDesu",
+          "language": "id",
+          "baseUrl": "https://otakudesu.blog"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.otakudesu-v14.43.izumi-ext",
+      "packageSha256": "becbef55a4bf667c0a69cf7739dd4776fc78b376f7cc494b77a0e1d8f3668129",
+      "packageBytes": 281287
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.otakufr",
+      "name": "Aniyomi: OtakuFR",
+      "version": "14.42",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1844040902149745273",
+          "name": "OtakuFR",
+          "language": "fr",
+          "baseUrl": "https://otakufr.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.otakufr-v14.42.izumi-ext",
+      "packageSha256": "30e4e4736492084185312da8681764ab3fccabe388aa48234bb2ed7f00b2fe50",
+      "packageBytes": 380303
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.pandrama",
+      "name": "Aniyomi: Pandrama",
+      "version": "14.10",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8290662435507939982",
+          "name": "Pandrama",
+          "language": "es",
+          "baseUrl": "https://pandrama.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.pandrama-v14.10.izumi-ext",
+      "packageSha256": "2e98eaaf8c6287a93d7efcd32022fd273be26aab35f14081a6a192bb8f74260d",
+      "packageBytes": 145005
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
+      "name": "Aniyomi: PelisForte",
+      "version": "14.51",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4419048029031752703",
+          "name": "PelisForte",
+          "language": "es",
+          "baseUrl": "https://www2.pelisforte.se"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.pelisforte-v14.51.izumi-ext",
+      "packageSha256": "0b781b520eac4bdda69a602addbd5728b4b937d340e663291e080a58c54d2a28",
+      "packageBytes": 1874339
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
+      "name": "Aniyomi: PelisPlusHD",
+      "version": "14.93",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1400819034564144238",
+          "name": "PelisPlusHD",
+          "language": "es",
+          "baseUrl": "https://pelisplushd.bz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.pelisplushd-v14.93.izumi-ext",
+      "packageSha256": "f4607540db37a9e6198312da8ce9e7987fec0ae329e5d362b83521742add9825",
+      "packageBytes": 1925426
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.pelisplusph",
+      "name": "Aniyomi: PelisPlusPh",
+      "version": "14.93",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4917265654298497443",
+          "name": "PelisPlusPh",
+          "language": "es",
+          "baseUrl": "https://www.pelisplushd.la"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.pelisplusph-v14.93.izumi-ext",
+      "packageSha256": "64a8380c0f3f577bc03f15447bd1cc5086631e4d1571a5e2f0d5bbb1c9febed9",
+      "packageBytes": 1899199
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.pelisplusto",
+      "name": "Aniyomi: PelisPlusTo",
+      "version": "14.93",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1705636111422561130",
+          "name": "PelisPlusTo",
+          "language": "es",
+          "baseUrl": "https://tioplus.app"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.pelisplusto-v14.93.izumi-ext",
+      "packageSha256": "da1373e758f7477bb6eab25269b5792a623cfe1fddc0c09f0ee5c7c5100fc6c1",
+      "packageBytes": 1899031
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
+      "name": "Aniyomi: Pi Fansubs",
+      "version": "14.34",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2457282111412357647",
+          "name": "Pi Fansubs",
+          "language": "pt-BR",
+          "baseUrl": "https://pifansubs.club"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.pifansubs-v14.34.izumi-ext",
+      "packageSha256": "b2ad1ef25622c8f5367a2b9fd9db3bc69c53d7f259c04cef5143a4ba79ce93bf",
+      "packageBytes": 138054
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia",
+      "name": "Aniyomi: PinoyMoviePedia",
+      "version": "14.10",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8569022244537791293",
+          "name": "PinoyMoviePedia",
+          "language": "en",
+          "baseUrl": "https://pinoymoviepedia.ru"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.pinoymoviepedia-v14.10.izumi-ext",
+      "packageSha256": "b5550e825c8c5e75b3e3130da1c5ff15fc8c156650675ffeaf43cb0e5d58652e",
+      "packageBytes": 133363
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.pobreflix",
+      "name": "Aniyomi: Pobreflix",
+      "version": "14.12",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "5761016601933875772",
+          "name": "Pobreflix",
+          "language": "pt-BR",
+          "baseUrl": "https://pobreflix4.art"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.pobreflix-v14.12.izumi-ext",
+      "packageSha256": "743940ef97253689ab6b9bf896bad88fa0a5852af6ace709f076049dbf8f6bdc",
+      "packageBytes": 2171744
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
+      "name": "Aniyomi: Q1N",
+      "version": "14.38",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2969482460524685571",
+          "name": "Q1N",
+          "language": "pt-BR",
+          "baseUrl": "https://q1n.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.animesgratis-v14.38.izumi-ext",
+      "packageSha256": "4f4dbd595160fc0e96b41eca760809d964b0de2b8bd7b5c1c1c2fcb441d4cd04",
+      "packageBytes": 396256
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.reanime",
+      "name": "Aniyomi: Re:ANIME",
+      "version": "14.5",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7105156973687362431",
+          "name": "Re:ANIME",
+          "language": "en",
+          "baseUrl": "https://reanime.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.reanime-v14.5.izumi-ext",
+      "packageSha256": "ca57a94ed4690ec7f5abf01a2082ff902e8548e5ad16f4c9104f6e30cdf7e6b9",
+      "packageBytes": 373145
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.rinecloud",
+      "name": "Aniyomi: RineCloud",
+      "version": "14.12",
+      "language": "pt-BR",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "9212086076543778498",
+          "name": "RineCloud",
+          "language": "pt-BR",
+          "baseUrl": "https://rine.cloud"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.rinecloud-v14.12.izumi-ext",
+      "packageSha256": "b370b87c620cb81095f17c266a06d837e81614ab3625068fecc6ed245755d6c6",
+      "packageBytes": 173819
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.rouvideo",
+      "name": "Aniyomi: RouVideo",
+      "version": "14.14",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7323052797979930552",
+          "name": "肉視頻",
+          "language": "all",
+          "baseUrl": "https://rou.video/home"
+        },
+        {
+          "id": "6055459097979921364",
+          "name": "肉視頻",
+          "language": "zh",
+          "baseUrl": "https://rou.video/home"
+        },
+        {
+          "id": "1757861758959207324",
+          "name": "肉視頻",
+          "language": "en",
+          "baseUrl": "https://rou.video/home"
+        },
+        {
+          "id": "8210438569455151012",
+          "name": "肉視頻",
+          "language": "vi",
+          "baseUrl": "https://rou.video/home"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.rouvideo-v14.14.izumi-ext",
+      "packageSha256": "5142f9ac8f6a52603c9a6497c0ef44235fd39d32fc72ef0d60c10bf12e9383e7",
+      "packageBytes": 213019
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.rule34video",
+      "name": "Aniyomi: Rule34Video",
+      "version": "14.10",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "9212790518101043860",
+          "name": "Rule34Video",
+          "language": "en",
+          "baseUrl": "https://rule34video.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.rule34video-v14.10.izumi-ext",
+      "packageSha256": "7f1961cd910b5cd2a9ed02f16bafff0101fe904a4014b2185d6b37cc21bbefac",
+      "packageBytes": 69407
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.samatodenvideos",
+      "name": "Aniyomi: Samato",
+      "version": "14.1",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "9061916959875958361",
+          "name": "Samato's Den: Videos",
+          "language": "es",
+          "baseUrl": "https://samatoden.blogspot.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.samatodenvideos-v14.1.izumi-ext",
+      "packageSha256": "132e6732550a0528cce3eb337f4aa006f7c758229e35c31230e042d3a0b2e888",
+      "packageBytes": 72441
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
+      "name": "Aniyomi: Samehadaku",
+      "version": "14.10",
+      "language": "id",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7446063017613536202",
+          "name": "Samehadaku",
+          "language": "id",
+          "baseUrl": "https://v2.samehadaku.how"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-id.samehadaku-v14.10.izumi-ext",
+      "packageSha256": "5dac51b4c97dec528ee3c1c1affc6ad8f7527d5286238da9fc0fe9c8317c9f82",
+      "packageBytes": 135438
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.de.serienstream",
+      "name": "Aniyomi: Serienstream",
+      "version": "14.34",
+      "language": "de",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5798377917298605009",
+          "name": "Serienstream",
+          "language": "de",
+          "baseUrl": "https://serienstream.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-de.serienstream-v14.34.izumi-ext",
+      "packageSha256": "74a2f7312a4ea0d27d4a907941ac3cee4863e21a7206d3fe3cd0a80648132c39",
+      "packageBytes": 151323
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.serieskao",
+      "name": "Aniyomi: SeriesKao",
+      "version": "14.23",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1179552672777572300",
+          "name": "SeriesKao",
+          "language": "es",
+          "baseUrl": "https://serieskao.top"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.serieskao-v14.23.izumi-ext",
+      "packageSha256": "732ad4a653f3bad2a319356944353ed2a3c12ce67608ffc6ce25456ca6db1270",
+      "packageBytes": 1922898
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.smartanimes",
+      "name": "Aniyomi: SmartAnimes",
+      "version": "14.9",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "7160915998368939090",
+          "name": "SmartAnimes",
+          "language": "pt-BR",
+          "baseUrl": "https://smartanimes.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.smartanimes-v14.9.izumi-ext",
+      "packageSha256": "1a7b45658d2be90275b3e86dde9cb30e3c8ab78345dba411173e4454e33b84e9",
+      "packageBytes": 208223
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.sololatino",
+      "name": "Aniyomi: SoloLatino",
+      "version": "14.28",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2714169179278506077",
+          "name": "SoloLatino",
+          "language": "es",
+          "baseUrl": "https://sololatino.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.sololatino-v14.28.izumi-ext",
+      "packageSha256": "d5c367e085dc7e1f1b65461278ed4f9ff0e064e2308753937e831b711720f02a",
+      "packageBytes": 1943921
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.streamingcommunity",
+      "name": "Aniyomi: StreamingCommunity",
+      "version": "14.21",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "665657603807796138",
+          "name": "StreamingUnity (Movie)",
+          "language": "en",
+          "baseUrl": "https://streamingunity.vip/en"
+        },
+        {
+          "id": "502708102217708509",
+          "name": "StreamingUnity (Movie)",
+          "language": "it",
+          "baseUrl": "https://streamingunity.vip/it"
+        },
+        {
+          "id": "349088835984594821",
+          "name": "StreamingUnity (Tv)",
+          "language": "en",
+          "baseUrl": "https://streamingunity.vip/en"
+        },
+        {
+          "id": "7246470104959245892",
+          "name": "StreamingUnity (Tv)",
+          "language": "it",
+          "baseUrl": "https://streamingunity.vip/it"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.streamingcommunity-v14.21.izumi-ext",
+      "packageSha256": "dbacc84d613b4ac25211cd12a7a34576b88e5e21778505ef9d3a1b28c86c53ef",
+      "packageBytes": 292059
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.stremio",
+      "name": "Aniyomi: Stremio",
+      "version": "14.9",
+      "language": "all",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8425771932667600381",
+          "name": "Stremio",
+          "language": "all",
+          "baseUrl": "https://app.strem.io/shell-v4.4"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.stremio-v14.9.izumi-ext",
+      "packageSha256": "e962fec9477a183a6481a45acf6fdc0ca7e8e43d4a286c7262b32599bc3fb17b",
+      "packageBytes": 299545
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
+      "name": "Aniyomi: Sudatchi",
+      "version": "14.7",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2951849872812057541",
+          "name": "Sudatchi",
+          "language": "all",
+          "baseUrl": ""
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.sudatchi-v14.7.izumi-ext",
+      "packageSha256": "d099737eced09e578330ff237eeac8c42568f11fdcb52f73ed9789a21a80cf4a",
+      "packageBytes": 251971
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.supjav",
+      "name": "Aniyomi: SupJav",
+      "version": "14.30",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "4473019365642465410",
+          "name": "SupJav",
+          "language": "en",
+          "baseUrl": "https://supjav.com"
+        },
+        {
+          "id": "3152122063691493374",
+          "name": "SupJav",
+          "language": "ja",
+          "baseUrl": "https://supjav.com"
+        },
+        {
+          "id": "2689098384082963484",
+          "name": "SupJav",
+          "language": "zh",
+          "baseUrl": "https://supjav.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.supjav-v14.30.izumi-ext",
+      "packageSha256": "08cec34e199c732c8c93e890371ba9fa33f86ee001dc5d9aaad977aa42674bc6",
+      "packageBytes": 260958
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.sushianimes",
+      "name": "Aniyomi: SushiAnimes",
+      "version": "14.2",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3082275639294081311",
+          "name": "Sushi Animes",
+          "language": "pt-BR",
+          "baseUrl": "https://sushianimes.com.br"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.sushianimes-v14.2.izumi-ext",
+      "packageSha256": "6121cab84c596b7fecc80fb8ac64282763818d651003f0f40943cfdd06c92fc9",
+      "packageBytes": 125502
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.tioanimeh",
+      "name": "Aniyomi: TioanimeH",
+      "version": "14.36",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "3109175441268108091",
+          "name": "TioAnime",
+          "language": "es",
+          "baseUrl": "https://tioanime.com"
+        },
+        {
+          "id": "754333127542778562",
+          "name": "TioHentai",
+          "language": "es",
+          "baseUrl": "https://tiohentai.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.tioanimeh-v14.36.izumi-ext",
+      "packageSha256": "f34a17cfa671f0a06ad926eda7addcf0740507ff047c14b04a220c8aa9f50ce8",
+      "packageBytes": 1619220
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.tiodonghua",
+      "name": "Aniyomi: Tiodonghua.com",
+      "version": "14.25",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6830054141432094072",
+          "name": "Tiodonghua.com",
+          "language": "es",
+          "baseUrl": "https://anime.tiodonghua.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.tiodonghua-v14.25.izumi-ext",
+      "packageSha256": "eee176b3f92b1eb129740188a518d16e79b45dada3455c71445f6d3fb16eec74",
+      "packageBytes": 258680
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.toonitalia",
+      "name": "Aniyomi: Toonitalia",
+      "version": "14.37",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8903679906651673401",
+          "name": "Toonitalia",
+          "language": "it",
+          "baseUrl": "https://toonitalia.green"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.toonitalia-v14.37.izumi-ext",
+      "packageSha256": "150691b61dcd4e3466f89a1247b5f88d47fdf84eea30ee4905ede9da046ccc90",
+      "packageBytes": 113256
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
+      "name": "Aniyomi: TR Anime Izle",
+      "version": "14.36",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2607995207802293539",
+          "name": "TR Anime Izle",
+          "language": "tr",
+          "baseUrl": "https://www.tranimeizle.io"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.tranimeizle-v14.36.izumi-ext",
+      "packageSha256": "a70d1d978b9ecfe5b40d37641d31749171c5feea454ee1d85d9b9c2643bd8646",
+      "packageBytes": 269329
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.tranimeci",
+      "name": "Aniyomi: TRAnimeCI",
+      "version": "14.10",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5869353240534047560",
+          "name": "TRAnimeCI",
+          "language": "tr",
+          "baseUrl": "https://tranimaci.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.tranimeci-v14.10.izumi-ext",
+      "packageSha256": "87492055cde3e44343db0ec249faf5cf80e038942d488a45ef5cd5b2be71b094",
+      "packageBytes": 97495
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.tuktukcinema",
+      "name": "Aniyomi: Tuktuk Cinema",
+      "version": "14.8",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7363299109912773155",
+          "name": "توك توك سينما",
+          "language": "ar",
+          "baseUrl": "https://tuktukhd.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.tuktukcinema-v14.8.izumi-ext",
+      "packageSha256": "8722ca1e620bfb93e54bd5bb7e0cb7cc737f950179739e5b5ec8dd8b8995bd17",
+      "packageBytes": 352263
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
+      "name": "Aniyomi: Türk Anime TV",
+      "version": "14.52",
+      "language": "tr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1539162878022626585",
+          "name": "Türk Anime TV",
+          "language": "tr",
+          "baseUrl": "https://www.turkanime.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-tr.turkanime-v14.52.izumi-ext",
+      "packageSha256": "80216cfbaa6c56db9b2679dd55218be8524dc89c86266c23329c6d550813c30a",
+      "packageBytes": 519522
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.uk.uakino",
+      "name": "Aniyomi: UAKino",
+      "version": "14.5",
+      "language": "uk",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2256494309842770890",
+          "name": "UAKino",
+          "language": "uk",
+          "baseUrl": "https://uakino.best"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-uk.uakino-v14.5.izumi-ext",
+      "packageSha256": "2a73035692b1c30acf0b1380545e40e9718e7f708aa3e7dfbd5fac55ff43348d",
+      "packageBytes": 104982
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.uk.ufdub",
+      "name": "Aniyomi: UFDub",
+      "version": "14.1",
+      "language": "uk",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4077428168272340843",
+          "name": "UFDub",
+          "language": "uk",
+          "baseUrl": "https://ufdub.com/anime"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-uk.ufdub-v14.1.izumi-ext",
+      "packageSha256": "98ecfddcede71a95b52f2deec63c9e86ad0f39b021a1db1343d9c5f79d7c5859",
+      "packageBytes": 54251
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
+      "name": "Aniyomi: UHD Movies",
+      "version": "14.19",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "582068848290425167",
+          "name": "UHD Movies",
+          "language": "en",
+          "baseUrl": "https://uhdmovies.vip"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.uhdmovies-v14.19.izumi-ext",
+      "packageSha256": "3e5894523fa8e9a13bda3bdeaa4643b12b1c4eaee9e76c9fe3246f75424184e5",
+      "packageBytes": 101738
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.uniquestream",
+      "name": "Aniyomi: UniqueStream",
+      "version": "14.8",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1915898919039572670",
+          "name": "UniqueStream",
+          "language": "en",
+          "baseUrl": "https://anime.uniquestream.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.uniquestream-v14.8.izumi-ext",
+      "packageSha256": "dced28078dd1136550b69b271cf6f6f9a7b6b70b5074f365391ed2f02376edb8",
+      "packageBytes": 180782
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.veohentai",
+      "name": "Aniyomi: VeoHentai",
+      "version": "14.1",
+      "language": "es",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1192827176989085393",
+          "name": "VeoHentai",
+          "language": "es",
+          "baseUrl": "https://veohentai.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.veohentai-v14.1.izumi-ext",
+      "packageSha256": "15daa042e448cc7cd545bd214871a3e8f096ed692defac37a7153a3e4a7f29b5",
+      "packageBytes": 59810
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.veranime",
+      "name": "Aniyomi: VerAni.me",
+      "version": "14.5",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2476297921251317481",
+          "name": "VerAni.me",
+          "language": "es",
+          "baseUrl": "https://verani.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.veranime-v14.5.izumi-ext",
+      "packageSha256": "02f205292a9e20682db0494dc2219189c82541060f4e028f463e01fc0556f62f",
+      "packageBytes": 1811521
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.veranimes",
+      "name": "Aniyomi: VerAnimes",
+      "version": "14.24",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6262145028910416459",
+          "name": "VerAnimes",
+          "language": "es",
+          "baseUrl": "https://wwv.veranimes.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.veranimes-v14.24.izumi-ext",
+      "packageSha256": "8c76b6a0c4089d4cf167d8e1443d141e13f8154d0f24e70ac8a7479cfe9c2fd4",
+      "packageBytes": 1754254
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.verpelistop",
+      "name": "Aniyomi: VerPelisTop",
+      "version": "14.13",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8167780943978050375",
+          "name": "VerPelisTop",
+          "language": "es",
+          "baseUrl": "https://www1.verpelis.top"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.verpelistop-v14.13.izumi-ext",
+      "packageSha256": "2917bd1f290f979975c4d7dc1f7b90c99f12f0e0222c1ff66d50a0685676a080",
+      "packageBytes": 432028
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.verseriesonline",
+      "name": "Aniyomi: VerSeriesOnline",
+      "version": "14.21",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8058040181507333420",
+          "name": "VerSeriesOnline",
+          "language": "es",
+          "baseUrl": "https://www.verseriesonline.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.verseriesonline-v14.21.izumi-ext",
+      "packageSha256": "f7296991a1c1783ca80143a9aa37391a7c02f5ef6631e29614600691c39e5b25",
+      "packageBytes": 323634
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.pt.vizer",
+      "name": "Aniyomi: Vizer.tv",
+      "version": "14.16",
+      "language": "pt-BR",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6953989216416223241",
+          "name": "Vizer.tv",
+          "language": "pt-BR",
+          "baseUrl": "https://vizertv.in"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-pt.vizer-v14.16.izumi-ext",
+      "packageSha256": "90d2ff360259a4e7d8395fb0cc2b676d3cbf89246049b5b719d622350b522216",
+      "packageBytes": 184168
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.voiranime",
+      "name": "Aniyomi: Voiranime",
+      "version": "14.2",
+      "language": "fr",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "5371141424049189102",
+          "name": "Voiranime",
+          "language": "fr",
+          "baseUrl": "https://voir-anime.to"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.voiranime-v14.2.izumi-ext",
+      "packageSha256": "131dca07172a966dc8b17da212c692510cd11835a869dd6908883bff51c41a58",
+      "packageBytes": 104202
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.voircartoon",
+      "name": "Aniyomi: VoirCartoon",
+      "version": "14.19",
+      "language": "fr",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "6593176551595101740",
+          "name": "VoirCartoon",
+          "language": "fr",
+          "baseUrl": "https://voircartoon.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.voircartoon-v14.19.izumi-ext",
+      "packageSha256": "194fe773ebe66002be049701d3a9b70a756e074e862a099554d52f1ebe69afde",
+      "packageBytes": 118816
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.vostfree",
+      "name": "Aniyomi: Vostfree",
+      "version": "14.41",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8596049504378147571",
+          "name": "Vostfree",
+          "language": "fr",
+          "baseUrl": "https://vostfree.ws"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.vostfree-v14.41.izumi-ext",
+      "packageSha256": "36b58f411e2dd1f63b4843015928ab14a875c8030ba5b96baa0114de9868c6b5",
+      "packageBytes": 213864
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.it.vvvvid",
+      "name": "Aniyomi: VVVVID",
+      "version": "14.1",
+      "language": "it",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8309061778249307518",
+          "name": "VVVVID",
+          "language": "it",
+          "baseUrl": "https://www.vvvvid.it"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-it.vvvvid-v14.1.izumi-ext",
+      "packageSha256": "eaff89e9f2ccb456e2e6412f60d6136ecca78691fcafa455008c953e95f70fe6",
+      "packageBytes": 147478
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcoanimedub",
+      "name": "Aniyomi: WcoAnimeDub",
+      "version": "14.9",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8622868574170180857",
+          "name": "WcoAnimeDub",
+          "language": "en",
+          "baseUrl": "https://www.wcoanimedub.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcoanimedub-v14.9.izumi-ext",
+      "packageSha256": "c8a2239ffe3d0ee35791807fadf1f9193aaa837fd0f026714106f802b2f1df03",
+      "packageBytes": 148679
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcoanimesub",
+      "name": "Aniyomi: WcoAnimeSub",
+      "version": "14.9",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "665629163594938512",
+          "name": "WcoAnimeSub",
+          "language": "en",
+          "baseUrl": "https://www.wcoanimesub.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcoanimesub-v14.9.izumi-ext",
+      "packageSha256": "002df9d83fc5edc59d34ec713dbf56d6fb26481f6d8ab793fbe7ee3703ccf67e",
+      "packageBytes": 148684
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcoforever",
+      "name": "Aniyomi: WcoForever",
+      "version": "14.9",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "5805164799487731673",
+          "name": "WcoForever",
+          "language": "en",
+          "baseUrl": "https://www.wcoforever.net"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcoforever-v14.9.izumi-ext",
+      "packageSha256": "b504504a703b522b0246b86c4855545b773e5415ada4bfb03cf91c6526c89fd8",
+      "packageBytes": 126241
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcofun",
+      "name": "Aniyomi: Wcofun",
+      "version": "14.23",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "1677488626877212634",
+          "name": "Wcofun",
+          "language": "en",
+          "baseUrl": "https://www.wcoflix.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcofun-v14.23.izumi-ext",
+      "packageSha256": "28dc3bbb519f0213f870067cd9e8e468fa4985dcf2ea575a999aa1cd2f4c51f3",
+      "packageBytes": 131748
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcostream",
+      "name": "Aniyomi: WCOStream",
+      "version": "14.14",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "4144024127778211557",
+          "name": "WCOStream",
+          "language": "en",
+          "baseUrl": "https://www.wcostream.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcostream-v14.14.izumi-ext",
+      "packageSha256": "914a78b3670ae8f2b0e7327afa70928ed60c87ee41bf76201a4799b964766945",
+      "packageBytes": 128268
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.wcotv",
+      "name": "Aniyomi: WcoTv",
+      "version": "14.9",
+      "language": "en",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "648702763126013078",
+          "name": "WcoTv",
+          "language": "en",
+          "baseUrl": "https://www.wco.tv"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.wcotv-v14.9.izumi-ext",
+      "packageSha256": "43030bf3b086a7061558c5199ba7659d29a87b22ab46b6ae0fa6c414a2b1f617",
+      "packageBytes": 148396
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.fr.wiflix",
+      "name": "Aniyomi: Wiflix",
+      "version": "14.30",
+      "language": "fr",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7149332646839704216",
+          "name": "Wiflix",
+          "language": "fr",
+          "baseUrl": "https://flemmix.best"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-fr.wiflix-v14.30.izumi-ext",
+      "packageSha256": "232da8455917f956a022d288037d09f860e69138f28569032bbcae6907d18fbf",
+      "packageBytes": 169629
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ar.witanime",
+      "name": "Aniyomi: WIT ANIME",
+      "version": "14.62",
+      "language": "ar",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8940958730943730988",
+          "name": "WIT ANIME",
+          "language": "ar",
+          "baseUrl": "https://witanime.cyou"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ar.witanime-v14.62.izumi-ext",
+      "packageSha256": "6f797fbdd553f13ccb0489712330e91b7dc608ea1c144eb5472d042a14ad52b4",
+      "packageBytes": 184671
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.en.xanime",
+      "name": "Aniyomi: XAnime",
+      "version": "14.1",
+      "language": "en",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "3262358113047577744",
+          "name": "XAnime",
+          "language": "en",
+          "baseUrl": "https://xanime.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-en.xanime-v14.1.izumi-ext",
+      "packageSha256": "a0585a2a17759c3daa6058a162e346efb51f0c6cabf977f8165a8399e99da4d0",
+      "packageBytes": 297436
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.xfani",
+      "name": "Aniyomi: Xfani",
+      "version": "14.8",
+      "language": "zh",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "8868273686324481907",
+          "name": "稀饭动漫",
+          "language": "zh",
+          "baseUrl": "https://anime.xifanacg.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.xfani-v14.8.izumi-ext",
+      "packageSha256": "0a722098ffb39d823bc9c19e9fd3401d67e8b9e976cdecd57183fd90e75482f1",
+      "packageBytes": 183998
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.zh.xiaoxintv",
+      "name": "Aniyomi: Xiaoxintv",
+      "version": "14.1",
+      "language": "zh",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7859804793032054884",
+          "name": "小宝影院",
+          "language": "zh",
+          "baseUrl": "https://xiaoxintv.cc"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-zh.xiaoxintv-v14.1.izumi-ext",
+      "packageSha256": "46cdd1c3710cb117efb0795bd3cf1a68d6ef3ac5cb2a4101d869c973896e51e8",
+      "packageBytes": 112283
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.xnxx",
+      "name": "Aniyomi: Xnxx",
+      "version": "14.3",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "1853973586604481267",
+          "name": "Xnxx",
+          "language": "all",
+          "baseUrl": "https://www.xnxx.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.xnxx-v14.3.izumi-ext",
+      "packageSha256": "fb6eb2bc6fc85f4db8b838a8103b17a36bf43244ac3368dfa4ba9bab27741070",
+      "packageBytes": 81356
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.all.xvideos",
+      "name": "Aniyomi: Xvideos",
+      "version": "14.3",
+      "language": "all",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "8016727706963226859",
+          "name": "Xvideos",
+          "language": "all",
+          "baseUrl": "https://www.xvideos.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-all.xvideos-v14.3.izumi-ext",
+      "packageSha256": "d317f9c162e7ccd1638490d2fe529e5d52d4943d344ba264bff0e4ef4c843f04",
+      "packageBytes": 62145
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.hi.yomovies",
+      "name": "Aniyomi: YoMovies",
+      "version": "14.34",
+      "language": "hi",
+      "nsfw": true,
+      "sources": [
+        {
+          "id": "2486904751081872151",
+          "name": "YoMovies",
+          "language": "hi",
+          "baseUrl": "https://yomovies.town"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-hi.yomovies-v14.34.izumi-ext",
+      "packageSha256": "f008f8619368563946438215c71f33ded93df15ab398cb5308e57767e0e96f15",
+      "packageBytes": 110875
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.ru.yummyanime",
+      "name": "Aniyomi: YummyAnime",
+      "version": "14.2",
+      "language": "ru",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "6100431890263423378",
+          "name": "YummyAnime",
+          "language": "ru",
+          "baseUrl": "https://ru.yummyani.me"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-ru.yummyanime-v14.2.izumi-ext",
+      "packageSha256": "945ee1aa9fb783285ab9e377c2412c74877258852eb7577b288fb4ce2f15ed54",
+      "packageBytes": 150243
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.zeroanime",
+      "name": "Aniyomi: zeroanime",
+      "version": "14.14",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "2089287837152010776",
+          "name": "zeroanime",
+          "language": "es",
+          "baseUrl": "https://www4.zeroanime.xyz"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.zeroanime-v14.14.izumi-ext",
+      "packageSha256": "4b408e8cd7767a045c2288f3914d7412c1ae0f8c5bdaf119fafe040c93412fc8",
+      "packageBytes": 252385
+    },
+    {
+      "id": "eu.kanade.tachiyomi.animeextension.es.zonaleros",
+      "name": "Aniyomi: Zonaleros",
+      "version": "14.18",
+      "language": "es",
+      "nsfw": false,
+      "sources": [
+        {
+          "id": "7487458127391606163",
+          "name": "Zonaleros",
+          "language": "es",
+          "baseUrl": "https://www.zona-leros.com"
+        }
+      ],
+      "backend": "aniyomi-jvm",
+      "package": "https://raw.githubusercontent.com/nickEatsBread/izumi-extension-repo/refs/heads/main/packages/aniyomi-es.zonaleros-v14.18.izumi-ext",
+      "packageSha256": "42ee4a9335bfe4fda16c894b99a8cb1b1f8654902983c4a0f108f2ea51b360a4",
+      "packageBytes": 434905
+    }
+  ]
+}
